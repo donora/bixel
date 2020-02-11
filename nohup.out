@@ -1,0 +1,10324 @@
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(npV8.py:10107): Gdk-CRITICAL **: 16:41:22.462: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+
+(npV8.py:10107): Gdk-CRITICAL **: 16:41:22.480: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+mv: cannot stat 'stills/*': No such file or directory
+Blue Illumination: 300 s
+Target Temperature: 28.4 C
+Target GIF Remake Time: 20 mins
+GIF Remake Iterations = 3
+
+Traceback (most recent call last):
+  File "npV8.py", line 282, in <module>
+    StripeIllum(k)
+  File "npV8.py", line 130, in StripeIllum
+    time.sleep(tblue)
+KeyboardInterrupt
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(npV8.py:10779): Gdk-CRITICAL **: 16:45:26.565: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+
+(npV8.py:10779): Gdk-CRITICAL **: 16:45:26.582: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+mv: cannot stat 'stills/*': No such file or directory
+Blue Illumination: 5 s
+Target Temperature: 28.4 C
+Target GIF Remake Time: 20 mins
+GIF Remake Iterations = 48
+
+Time: 0.2 minutes
+fan off, t=25.0C, humidity=17.0%
+Iteration 1, ISO 100
+Time: 0.31 minutes
+fan off, t=24.0C, humidity=44.0%
+ISO 800
+
+
+Time: 0.51 minutes
+fan off, t=24.0C, humidity=44.0%
+Iteration 2, ISO 100
+Time: 0.64 minutes
+fan off, t=24.0C, humidity=44.0%
+ISO 800
+
+
+Time: 0.85 minutes
+fan off, t=24.0C, humidity=44.0%
+Iteration 3, ISO 100
+Time: 0.94 minutes
+fan off, t=24.0C, humidity=44.0%
+ISO 800
+
+
+Time: 1.15 minutes
+fan off, t=24.0C, humidity=44.0%
+Iteration 4, ISO 100
+Time: 1.24 minutes
+fan off, t=24.0C, humidity=44.0%
+ISO 800
+
+
+Traceback (most recent call last):
+  File "npV8.py", line 282, in <module>
+    StripeIllum(k)
+  File "npV8.py", line 130, in StripeIllum
+    time.sleep(tblue)
+KeyboardInterrupt
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(npV8.py:11266): Gdk-CRITICAL **: 16:47:38.132: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+
+(npV8.py:11266): Gdk-CRITICAL **: 16:47:38.150: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Blue Illumination: 300 s
+Target Temperature: 28.4 C
+Target GIF Remake Time: 20 mins
+GIF Remake Iterations = 3
+
+Time: 5.16 minutes
+fan off, t=24.0C, humidity=45.0%
+Iteration 1, ISO 100
+Time: 5.28 minutes
+fan off, t=24.0C, humidity=44.0%
+ISO 800
+
+
+Time: 10.4 minutes
+fan off, t=24.0C, humidity=45.0%
+Iteration 2, ISO 100
+Time: 10.57 minutes
+fan off, t=24.0C, humidity=46.0%
+ISO 800
+
+
+Making GIF...
+Time: 15.88 minutes
+fan off, t=25.0C, humidity=46.0%
+Iteration 3, ISO 100
+Time: 15.97 minutes
+fan off, t=25.0C, humidity=45.0%
+ISO 800
+
+
+Time: 21.09 minutes
+fan off, t=25.0C, humidity=45.0%
+Iteration 4, ISO 100
+Time: 21.18 minutes
+fan off, t=25.0C, humidity=46.0%
+ISO 800
+
+
+Time: 26.3 minutes
+fan off, t=25.0C, humidity=46.0%
+Iteration 5, ISO 100
+Time: 26.39 minutes
+fan off, t=25.0C, humidity=46.0%
+ISO 800
+
+
+Making GIF...
+Time: 31.83 minutes
+fan off, t=25.0C, humidity=46.0%
+Iteration 6, ISO 100
+Time: 31.91 minutes
+fan off, t=25.0C, humidity=46.0%
+ISO 800
+
+
+Time: 37.03 minutes
+fan off, t=25.0C, humidity=46.0%
+Iteration 7, ISO 100
+Time: 37.16 minutes
+fan off, t=26.0C, humidity=47.0%
+ISO 800
+
+
+Time: 42.28 minutes
+fan off, t=26.0C, humidity=47.0%
+Iteration 8, ISO 100
+Time: 42.4 minutes
+fan off, t=26.0C, humidity=47.0%
+ISO 800
+
+
+Making GIF...
+Time: 48.03 minutes
+fan off, t=26.0C, humidity=47.0%
+Iteration 9, ISO 100
+Time: 48.2 minutes
+fan off, t=26.0C, humidity=47.0%
+ISO 800
+
+
+Time: 53.37 minutes
+fan off, t=26.0C, humidity=48.0%
+Iteration 10, ISO 100
+Time: 53.45 minutes
+fan off, t=26.0C, humidity=48.0%
+ISO 800
+
+
+Time: 58.57 minutes
+fan off, t=26.0C, humidity=48.0%
+Iteration 11, ISO 100
+Time: 58.7 minutes
+fan off, t=27.0C, humidity=47.0%
+ISO 800
+
+
+Making GIF...
+Time: 64.52 minutes
+fan off, t=27.0C, humidity=47.0%
+Iteration 12, ISO 100
+Time: 64.6 minutes
+fan off, t=27.0C, humidity=47.0%
+ISO 800
+
+
+Time: 69.84 minutes
+fan off, t=27.0C, humidity=47.0%
+Iteration 13, ISO 100
+Time: 69.92 minutes
+fan off, t=27.0C, humidity=47.0%
+ISO 800
+
+
+Time: 75.04 minutes
+fan off, t=27.0C, humidity=47.0%
+Iteration 14, ISO 100
+Time: 75.17 minutes
+fan off, t=27.0C, humidity=48.0%
+ISO 800
+
+
+Making GIF...
+Time: 81.24 minutes
+fan off, t=27.0C, humidity=49.0%
+Iteration 15, ISO 100
+Time: 81.38 minutes
+fan off, t=27.0C, humidity=48.0%
+ISO 800
+
+
+Time: 86.5 minutes
+fan off, t=27.0C, humidity=48.0%
+Iteration 16, ISO 100
+Time: 86.58 minutes
+fan off, t=27.0C, humidity=49.0%
+ISO 800
+
+
+Time: 91.7 minutes
+fan off, t=27.0C, humidity=49.0%
+Iteration 17, ISO 100
+Time: 91.87 minutes
+fan off, t=27.0C, humidity=49.0%
+ISO 800
+
+
+Making GIF...
+Time: 98.06 minutes
+fan off, t=27.0C, humidity=49.0%
+Iteration 18, ISO 100
+Time: 98.27 minutes
+fan off, t=27.0C, humidity=49.0%
+ISO 800
+
+
+Time: 103.43 minutes
+fan off, t=28.0C, humidity=51.0%
+Iteration 19, ISO 100
+Time: 103.56 minutes
+fan off, t=28.0C, humidity=50.0%
+ISO 800
+
+
+Time: 108.68 minutes
+fan off, t=28.0C, humidity=50.0%
+Iteration 20, ISO 100
+Time: 108.76 minutes
+fan off, t=27.0C, humidity=52.0%
+ISO 800
+
+
+Making GIF...
+Time: 115.16 minutes
+fan off, t=28.0C, humidity=51.0%
+Iteration 21, ISO 100
+Time: 115.29 minutes
+fan off, t=28.0C, humidity=52.0%
+ISO 800
+
+
+Time: 120.41 minutes
+fan off, t=28.0C, humidity=51.0%
+Iteration 22, ISO 100
+Time: 120.5 minutes
+fan off, t=28.0C, humidity=52.0%
+ISO 800
+
+
+Time: 125.66 minutes
+fan off, t=28.0C, humidity=52.0%
+Iteration 23, ISO 100
+Time: 125.75 minutes
+fan off, t=28.0C, humidity=52.0%
+ISO 800
+
+
+Making GIF...
+Time: 132.37 minutes
+fan off, t=28.0C, humidity=52.0%
+Iteration 24, ISO 100
+Time: 132.45 minutes
+fan off, t=28.0C, humidity=53.0%
+ISO 800
+
+
+Time: 137.61 minutes
+fan off, t=28.0C, humidity=53.0%
+Iteration 25, ISO 100
+Time: 137.7 minutes
+fan off, t=28.0C, humidity=53.0%
+ISO 800
+
+
+Time: 142.87 minutes
+fan off, t=28.0C, humidity=54.0%
+Iteration 26, ISO 100
+Time: 142.96 minutes
+fan off, t=28.0C, humidity=53.0%
+ISO 800
+
+
+Making GIF...
+Time: 149.86 minutes
+fan off, t=28.0C, humidity=54.0%
+Iteration 27, ISO 100
+Time: 149.94 minutes
+fan off, t=28.0C, humidity=53.0%
+ISO 800
+
+
+Time: 155.07 minutes
+fan off, t=28.0C, humidity=54.0%
+Iteration 28, ISO 100
+Time: 155.15 minutes
+fan off, t=28.0C, humidity=54.0%
+ISO 800
+
+
+Time: 160.28 minutes
+fan off, t=28.0C, humidity=54.0%
+Iteration 29, ISO 100
+Time: 160.42 minutes
+fan off, t=28.0C, humidity=54.0%
+ISO 800
+
+
+Making GIF...
+Time: 167.42 minutes
+fan off, t=28.0C, humidity=54.0%
+Iteration 30, ISO 100
+Time: 167.56 minutes
+fan off, t=28.0C, humidity=54.0%
+ISO 800
+
+
+Time: 172.68 minutes
+fan off, t=28.0C, humidity=54.0%
+Iteration 31, ISO 100
+Time: 172.86 minutes
+fan off, t=28.0C, humidity=55.0%
+ISO 800
+
+
+Time: 178.0 minutes
+fan off, t=28.0C, humidity=54.0%
+Iteration 32, ISO 100
+Time: 178.09 minutes
+fan off, t=28.0C, humidity=55.0%
+ISO 800
+
+
+Making GIF...
+Time: 185.29 minutes
+fan off, t=28.0C, humidity=55.0%
+Iteration 33, ISO 100
+Time: 185.38 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Time: 190.51 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 34, ISO 100
+Time: 190.6 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Time: 195.73 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 35, ISO 100
+Time: 195.82 minutes
+fan on, t=29.0C, humidity=55.0%
+ISO 800
+
+
+Making GIF...
+Time: 203.23 minutes
+fan on, t=29.0C, humidity=55.0%
+Iteration 36, ISO 100
+Time: 203.36 minutes
+fan off, t=28.0C, humidity=55.0%
+ISO 800
+
+
+Time: 208.53 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 37, ISO 100
+Time: 208.66 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Time: 213.83 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 38, ISO 100
+Time: 214.0 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 221.56 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 39, ISO 100
+Time: 221.65 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Time: 226.77 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 40, ISO 100
+Time: 226.86 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Time: 232.03 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 41, ISO 100
+Time: 232.15 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 238.64 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 42, ISO 100
+Time: 238.81 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Time: 243.95 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 43, ISO 100
+Time: 244.07 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Time: 249.2 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 44, ISO 100
+Time: 249.28 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 255.81 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 45, ISO 100
+Time: 255.9 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Time: 261.11 minutes
+fan on, t=29.0C, humidity=54.0%
+Iteration 46, ISO 100
+Time: 261.33 minutes
+fan on, t=29.0C, humidity=56.0%
+ISO 800
+
+
+Time: 266.45 minutes
+fan on, t=29.0C, humidity=55.0%
+Iteration 47, ISO 100
+Time: 266.53 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 273.24 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 48, ISO 100
+Time: 273.37 minutes
+fan off, t=27.0C, humidity=59.0%
+ISO 800
+
+
+Time: 278.5 minutes
+fan off, t=27.0C, humidity=59.0%
+Iteration 49, ISO 100
+Time: 278.66 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Time: 283.79 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 50, ISO 100
+Time: 283.91 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 290.58 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 51, ISO 100
+Time: 290.66 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Time: 295.84 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 52, ISO 100
+Time: 295.97 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Time: 301.14 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 53, ISO 100
+Time: 301.27 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 308.21 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 54, ISO 100
+Time: 308.38 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Time: 313.51 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 55, ISO 100
+Time: 313.63 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Time: 318.8 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 56, ISO 100
+Time: 318.89 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 325.85 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 57, ISO 100
+Time: 325.94 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Time: 331.07 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 58, ISO 100
+Time: 331.16 minutes
+fan on, t=29.0C, humidity=57.0%
+ISO 800
+
+
+Time: 336.37 minutes
+fan on, t=29.0C, humidity=57.0%
+Iteration 59, ISO 100
+Time: 336.55 minutes
+fan on, t=29.0C, humidity=57.0%
+ISO 800
+
+
+Making GIF...
+Time: 343.8 minutes
+fan off, t=27.0C, humidity=58.0%
+Iteration 60, ISO 100
+Time: 343.97 minutes
+fan off, t=27.0C, humidity=58.0%
+ISO 800
+
+
+Time: 349.1 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 61, ISO 100
+Time: 349.19 minutes
+fan off, t=27.0C, humidity=59.0%
+ISO 800
+
+
+Time: 354.32 minutes
+fan off, t=27.0C, humidity=59.0%
+Iteration 62, ISO 100
+Time: 354.45 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 361.66 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 63, ISO 100
+Time: 361.75 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Time: 367.13 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 64, ISO 100
+Time: 367.22 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Time: 372.35 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 65, ISO 100
+Time: 372.44 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 379.65 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 66, ISO 100
+Time: 379.75 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Time: 384.87 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 67, ISO 100
+Time: 384.96 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Time: 390.09 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 68, ISO 100
+Time: 390.22 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 397.57 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 69, ISO 100
+Time: 397.7 minutes
+fan on, t=29.0C, humidity=57.0%
+ISO 800
+
+
+Time: 402.87 minutes
+fan on, t=29.0C, humidity=53.0%
+Iteration 70, ISO 100
+Time: 403.01 minutes
+fan on, t=29.0C, humidity=53.0%
+ISO 800
+
+
+Time: 408.18 minutes
+fan off, t=28.0C, humidity=57.0%
+Iteration 71, ISO 100
+Time: 408.31 minutes
+fan off, t=28.0C, humidity=57.0%
+ISO 800
+
+
+Making GIF...
+Time: 415.67 minutes
+fan off, t=28.0C, humidity=57.0%
+Iteration 72, ISO 100
+Time: 415.8 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Time: 420.97 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 73, ISO 100
+Time: 421.05 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Time: 426.18 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 74, ISO 100
+Time: 426.26 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 433.86 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 75, ISO 100
+Time: 434.0 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Time: 439.19 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 76, ISO 100
+Time: 439.28 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Time: 444.49 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 77, ISO 100
+Time: 444.62 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 452.42 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 78, ISO 100
+Time: 452.53 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Time: 457.7 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 79, ISO 100
+Time: 457.83 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Time: 462.96 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 80, ISO 100
+Time: 463.08 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 470.0 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 81, ISO 100
+Time: 470.15 minutes
+fan on, t=29.0C, humidity=57.0%
+ISO 800
+
+
+Time: 475.28 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 82, ISO 100
+Time: 475.4 minutes
+fan on, t=29.0C, humidity=57.0%
+ISO 800
+
+
+Time: 480.53 minutes
+fan on, t=29.0C, humidity=53.0%
+Iteration 83, ISO 100
+Time: 480.61 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 487.57 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 84, ISO 100
+Time: 487.66 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Time: 492.78 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 85, ISO 100
+Time: 492.87 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Time: 498.04 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 86, ISO 100
+Time: 498.13 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 505.12 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 87, ISO 100
+Time: 505.21 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Time: 510.38 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 88, ISO 100
+Time: 510.46 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Time: 515.59 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 89, ISO 100
+Time: 515.71 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 522.77 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 90, ISO 100
+Time: 522.86 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Time: 527.98 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 91, ISO 100
+Time: 528.2 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Time: 533.33 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 92, ISO 100
+Time: 533.42 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 540.5 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 93, ISO 100
+Time: 540.63 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Time: 545.8 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 94, ISO 100
+Time: 545.93 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Time: 551.1 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 95, ISO 100
+Time: 551.22 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 558.57 minutes
+fan off, t=28.0C, humidity=57.0%
+Iteration 96, ISO 100
+Time: 558.66 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Time: 563.83 minutes
+fan on, t=29.0C, humidity=56.0%
+Iteration 97, ISO 100
+Time: 563.92 minutes
+fan on, t=29.0C, humidity=56.0%
+ISO 800
+
+
+Time: 569.21 minutes
+fan on, t=29.0C, humidity=57.0%
+Iteration 98, ISO 100
+Time: 569.39 minutes
+fan on, t=29.0C, humidity=57.0%
+ISO 800
+
+
+Making GIF...
+Time: 576.58 minutes
+fan on, t=29.0C, humidity=57.0%
+Iteration 99, ISO 100
+Time: 576.71 minutes
+fan off, t=27.0C, humidity=59.0%
+ISO 800
+
+
+Time: 581.84 minutes
+fan off, t=27.0C, humidity=59.0%
+Iteration 100, ISO 100
+Time: 581.93 minutes
+fan off, t=27.0C, humidity=59.0%
+ISO 800
+
+
+Time: 587.06 minutes
+fan off, t=27.0C, humidity=59.0%
+Iteration 101, ISO 100
+Time: 587.27 minutes
+fan off, t=27.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 594.69 minutes
+fan off, t=27.0C, humidity=59.0%
+Iteration 102, ISO 100
+Time: 594.78 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Time: 599.91 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 103, ISO 100
+Time: 600.0 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Time: 605.13 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 104, ISO 100
+Time: 605.22 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 612.64 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 105, ISO 100
+Time: 612.78 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Time: 617.95 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 106, ISO 100
+Time: 618.08 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Time: 623.21 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 107, ISO 100
+Time: 623.29 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 631.0 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 108, ISO 100
+Time: 631.14 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Time: 636.28 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 109, ISO 100
+Time: 636.41 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Time: 641.58 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 110, ISO 100
+Time: 641.66 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 649.38 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 111, ISO 100
+Time: 649.48 minutes
+fan off, t=28.0C, humidity=57.0%
+ISO 800
+
+
+Time: 654.61 minutes
+fan off, t=28.0C, humidity=57.0%
+Iteration 112, ISO 100
+Time: 654.7 minutes
+fan off, t=28.0C, humidity=57.0%
+ISO 800
+
+
+Time: 659.83 minutes
+fan off, t=28.0C, humidity=57.0%
+Iteration 113, ISO 100
+Time: 659.92 minutes
+fan off, t=28.0C, humidity=57.0%
+ISO 800
+
+
+Making GIF...
+Time: 667.67 minutes
+fan off, t=28.0C, humidity=57.0%
+Iteration 114, ISO 100
+Time: 667.84 minutes
+fan off, t=28.0C, humidity=57.0%
+ISO 800
+
+
+Time: 673.01 minutes
+fan off, t=28.0C, humidity=57.0%
+Iteration 115, ISO 100
+Time: 673.1 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Time: 678.23 minutes
+fan off, t=28.0C, humidity=57.0%
+Iteration 116, ISO 100
+Time: 678.32 minutes
+fan off, t=28.0C, humidity=57.0%
+ISO 800
+
+
+Making GIF...
+Time: 686.11 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 117, ISO 100
+Time: 686.22 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Time: 691.39 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 118, ISO 100
+Time: 691.48 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Time: 696.61 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 119, ISO 100
+Time: 696.91 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Making GIF...
+Time: 704.72 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 120, ISO 100
+Time: 704.92 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Time: 710.05 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 121, ISO 100
+Time: 710.14 minutes
+fan off, t=28.0C, humidity=57.0%
+ISO 800
+
+
+Time: 715.26 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 122, ISO 100
+Time: 715.4 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Making GIF...
+Time: 722.45 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 123, ISO 100
+Time: 722.54 minutes
+fan off, t=28.0C, humidity=57.0%
+ISO 800
+
+
+Time: 727.67 minutes
+fan off, t=28.0C, humidity=57.0%
+Iteration 124, ISO 100
+Time: 727.76 minutes
+fan off, t=28.0C, humidity=55.0%
+ISO 800
+
+
+Time: 732.93 minutes
+fan off, t=28.0C, humidity=57.0%
+Iteration 125, ISO 100
+Time: 733.13 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Making GIF...
+Time: 740.31 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 126, ISO 100
+Time: 740.44 minutes
+fan off, t=28.0C, humidity=57.0%
+ISO 800
+
+
+Time: 745.57 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 127, ISO 100
+Time: 745.66 minutes
+fan off, t=28.0C, humidity=57.0%
+ISO 800
+
+
+Time: 750.79 minutes
+fan off, t=28.0C, humidity=57.0%
+Iteration 128, ISO 100
+Time: 750.88 minutes
+fan off, t=28.0C, humidity=57.0%
+ISO 800
+
+
+Making GIF...
+Time: 758.21 minutes
+fan off, t=28.0C, humidity=57.0%
+Iteration 129, ISO 100
+Time: 758.34 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Time: 763.51 minutes
+fan off, t=28.0C, humidity=57.0%
+Iteration 130, ISO 100
+Time: 763.64 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Time: 768.78 minutes
+fan off, t=28.0C, humidity=57.0%
+Iteration 131, ISO 100
+Time: 768.91 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Making GIF...
+Time: 776.27 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 132, ISO 100
+Time: 776.44 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Time: 781.57 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 133, ISO 100
+Time: 781.66 minutes
+fan off, t=28.0C, humidity=57.0%
+ISO 800
+
+
+Time: 786.79 minutes
+fan off, t=28.0C, humidity=57.0%
+Iteration 134, ISO 100
+Time: 786.88 minutes
+fan off, t=28.0C, humidity=55.0%
+ISO 800
+
+
+Making GIF...
+Time: 794.16 minutes
+fan off, t=28.0C, humidity=57.0%
+Iteration 135, ISO 100
+Time: 794.3 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Time: 799.47 minutes
+fan off, t=28.0C, humidity=57.0%
+Iteration 136, ISO 100
+Time: 799.61 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Time: 804.73 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 137, ISO 100
+Time: 804.83 minutes
+fan off, t=28.0C, humidity=57.0%
+ISO 800
+
+
+Making GIF...
+Time: 812.15 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 138, ISO 100
+Time: 812.33 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Time: 817.45 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 139, ISO 100
+Time: 817.55 minutes
+fan off, t=28.0C, humidity=57.0%
+ISO 800
+
+
+Time: 822.67 minutes
+fan off, t=28.0C, humidity=57.0%
+Iteration 140, ISO 100
+Time: 822.76 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Making GIF...
+Time: 830.17 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 141, ISO 100
+Time: 830.26 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Time: 835.4 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 142, ISO 100
+Time: 835.53 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Time: 840.69 minutes
+fan off, t=28.0C, humidity=57.0%
+Iteration 143, ISO 100
+Time: 840.86 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Making GIF...
+Time: 848.3 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 144, ISO 100
+Time: 848.44 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Time: 853.6 minutes
+fan off, t=28.0C, humidity=57.0%
+Iteration 145, ISO 100
+Time: 853.73 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Time: 858.9 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 146, ISO 100
+Time: 859.02 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Making GIF...
+Time: 866.58 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 147, ISO 100
+Time: 866.75 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Time: 871.92 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 148, ISO 100
+Time: 872.14 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Time: 877.26 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 149, ISO 100
+Time: 877.34 minutes
+fan off, t=28.0C, humidity=57.0%
+ISO 800
+
+
+Making GIF...
+Time: 885.03 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 150, ISO 100
+Time: 885.16 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Time: 890.29 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 151, ISO 100
+Time: 890.41 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Time: 895.54 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 152, ISO 100
+Time: 895.62 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Making GIF...
+Time: 903.36 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 153, ISO 100
+Time: 903.47 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Time: 908.59 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 154, ISO 100
+Time: 908.72 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Time: 913.85 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 155, ISO 100
+Time: 913.93 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Making GIF...
+Time: 921.9 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 156, ISO 100
+Time: 922.08 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Time: 927.21 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 157, ISO 100
+Time: 927.3 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Time: 932.43 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 158, ISO 100
+Time: 932.59 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Making GIF...
+Time: 940.53 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 159, ISO 100
+Time: 940.63 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Time: 945.76 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 160, ISO 100
+Time: 945.98 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Time: 951.1 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 161, ISO 100
+Time: 951.19 minutes
+fan off, t=28.0C, humidity=57.0%
+ISO 800
+
+
+Making GIF...
+Time: 958.46 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 162, ISO 100
+Time: 958.6 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Time: 963.72 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 163, ISO 100
+Time: 963.86 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Time: 969.01 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 164, ISO 100
+Time: 969.13 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Making GIF...
+Time: 976.29 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 165, ISO 100
+Time: 976.42 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Time: 981.55 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 166, ISO 100
+Time: 981.71 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Time: 986.84 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 167, ISO 100
+Time: 986.92 minutes
+fan off, t=28.0C, humidity=57.0%
+ISO 800
+
+
+Making GIF...
+Time: 994.38 minutes
+fan off, t=28.0C, humidity=57.0%
+Iteration 168, ISO 100
+Time: 994.47 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Time: 999.6 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 169, ISO 100
+Time: 999.77 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Time: 1005.03 minutes
+fan off, t=28.0C, humidity=57.0%
+Iteration 170, ISO 100
+Time: 1005.16 minutes
+fan off, t=28.0C, humidity=57.0%
+ISO 800
+
+
+Making GIF...
+Time: 1012.52 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 171, ISO 100
+Time: 1012.69 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Time: 1017.82 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 172, ISO 100
+Time: 1017.9 minutes
+fan off, t=28.0C, humidity=57.0%
+ISO 800
+
+
+Time: 1023.07 minutes
+fan off, t=28.0C, humidity=57.0%
+Iteration 173, ISO 100
+Time: 1023.16 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Making GIF...
+Time: 1030.55 minutes
+fan off, t=28.0C, humidity=57.0%
+Iteration 174, ISO 100
+Time: 1030.65 minutes
+fan off, t=28.0C, humidity=57.0%
+ISO 800
+
+
+Time: 1035.78 minutes
+fan off, t=28.0C, humidity=57.0%
+Iteration 175, ISO 100
+Time: 1035.91 minutes
+fan off, t=28.0C, humidity=57.0%
+ISO 800
+
+
+Time: 1041.04 minutes
+fan off, t=28.0C, humidity=57.0%
+Iteration 176, ISO 100
+Time: 1041.16 minutes
+fan off, t=28.0C, humidity=57.0%
+ISO 800
+
+
+Making GIF...
+Time: 1048.63 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 177, ISO 100
+Time: 1048.73 minutes
+fan off, t=28.0C, humidity=57.0%
+ISO 800
+
+
+Time: 1053.86 minutes
+fan off, t=28.0C, humidity=57.0%
+Iteration 178, ISO 100
+Time: 1054.03 minutes
+fan off, t=28.0C, humidity=57.0%
+ISO 800
+
+
+Time: 1059.16 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 179, ISO 100
+Time: 1059.24 minutes
+fan off, t=28.0C, humidity=57.0%
+ISO 800
+
+
+Making GIF...
+Time: 1066.78 minutes
+fan off, t=28.0C, humidity=57.0%
+Iteration 180, ISO 100
+Time: 1066.95 minutes
+fan off, t=28.0C, humidity=57.0%
+ISO 800
+
+
+Time: 1072.08 minutes
+fan off, t=28.0C, humidity=57.0%
+Iteration 181, ISO 100
+Time: 1072.25 minutes
+fan off, t=28.0C, humidity=57.0%
+ISO 800
+
+
+Time: 1077.42 minutes
+fan off, t=28.0C, humidity=57.0%
+Iteration 182, ISO 100
+Time: 1077.55 minutes
+fan off, t=28.0C, humidity=57.0%
+ISO 800
+
+
+Making GIF...
+Time: 1085.28 minutes
+fan off, t=28.0C, humidity=57.0%
+Iteration 183, ISO 100
+Time: 1085.38 minutes
+fan off, t=28.0C, humidity=57.0%
+ISO 800
+
+
+Time: 1090.55 minutes
+fan off, t=28.0C, humidity=57.0%
+Iteration 184, ISO 100
+Time: 1090.68 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Time: 1095.81 minutes
+fan off, t=28.0C, humidity=56.0%
+Iteration 185, ISO 100
+Time: 1095.9 minutes
+fan off, t=28.0C, humidity=57.0%
+ISO 800
+
+
+Making GIF...
+Time: 1103.51 minutes
+fan off, t=28.0C, humidity=57.0%
+Iteration 186, ISO 100
+Time: 1103.6 minutes
+fan off, t=28.0C, humidity=56.0%
+ISO 800
+
+
+Time: 1108.73 minutes
+fan off, t=28.0C, humidity=57.0%
+Iteration 187, ISO 100
+Time: 1108.81 minutes
+fan off, t=28.0C, humidity=57.0%
+ISO 800
+
+
+Time: 1113.94 minutes
+fan off, t=28.0C, humidity=57.0%
+Iteration 188, ISO 100
+Time: 1114.1 minutes
+fan off, t=28.0C, humidity=57.0%
+ISO 800
+
+
+Making GIF...
+Time: 1121.81 minutes
+fan off, t=28.0C, humidity=57.0%
+Iteration 189, ISO 100
+Time: 1121.9 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Time: 1127.03 minutes
+fan off, t=28.0C, humidity=57.0%
+Iteration 190, ISO 100
+Time: 1127.12 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Time: 1132.25 minutes
+fan off, t=28.0C, humidity=57.0%
+Iteration 191, ISO 100
+Time: 1132.42 minutes
+fan off, t=28.0C, humidity=57.0%
+ISO 800
+
+
+Making GIF...
+Time: 1140.17 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 192, ISO 100
+Time: 1140.28 minutes
+fan off, t=28.0C, humidity=57.0%
+ISO 800
+
+
+Time: 1145.46 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 193, ISO 100
+Time: 1145.63 minutes
+fan off, t=28.0C, humidity=57.0%
+ISO 800
+
+
+Time: 1150.8 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 194, ISO 100
+Time: 1150.89 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 1158.67 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 195, ISO 100
+Time: 1158.81 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Time: 1164.03 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 196, ISO 100
+Time: 1164.2 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Time: 1169.44 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 197, ISO 100
+Time: 1169.53 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 1177.31 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 198, ISO 100
+Time: 1177.43 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Time: 1182.56 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 199, ISO 100
+Time: 1182.74 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Time: 1187.86 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 200, ISO 100
+Time: 1188.0 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 1195.33 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 201, ISO 100
+Time: 1195.46 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Time: 1200.59 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 202, ISO 100
+Time: 1200.75 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Time: 1206.13 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 203, ISO 100
+Time: 1206.22 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 1213.54 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 204, ISO 100
+Time: 1213.63 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Time: 1218.76 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 205, ISO 100
+Time: 1218.94 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Time: 1224.11 minutes
+fan off, t=28.0C, humidity=58.0%
+Iteration 206, ISO 100
+Time: 1224.32 minutes
+fan off, t=28.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 1231.68 minutes
+fan on, t=29.0C, humidity=57.0%
+Iteration 207, ISO 100
+Time: 1231.82 minutes
+fan on, t=29.0C, humidity=57.0%
+ISO 800
+
+
+Time: 1236.95 minutes
+fan on, t=29.0C, humidity=57.0%
+Iteration 208, ISO 100
+Time: 1237.08 minutes
+fan on, t=29.0C, humidity=56.0%
+ISO 800
+
+
+Time: 1242.21 minutes
+fan on, t=29.0C, humidity=56.0%
+Iteration 209, ISO 100
+Time: 1242.29 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 1249.71 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 210, ISO 100
+Time: 1249.89 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 1255.01 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 211, ISO 100
+Time: 1255.15 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Time: 1260.4 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 212, ISO 100
+Time: 1260.53 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 1268.08 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 213, ISO 100
+Time: 1268.18 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Time: 1273.31 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 214, ISO 100
+Time: 1273.48 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Time: 1278.61 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 215, ISO 100
+Time: 1278.7 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 1286.09 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 216, ISO 100
+Time: 1286.23 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Time: 1291.36 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 217, ISO 100
+Time: 1291.49 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Time: 1296.82 minutes
+fan on, t=29.0C, humidity=57.0%
+Iteration 218, ISO 100
+Time: 1296.96 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 1304.47 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 219, ISO 100
+Time: 1304.61 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 1309.73 minutes
+fan off, t=27.0C, humidity=59.0%
+Iteration 220, ISO 100
+Time: 1309.82 minutes
+fan off, t=27.0C, humidity=61.0%
+ISO 800
+
+
+Time: 1314.94 minutes
+fan off, t=27.0C, humidity=61.0%
+Iteration 221, ISO 100
+Time: 1315.08 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 1322.7 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 222, ISO 100
+Time: 1322.89 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 1328.06 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 223, ISO 100
+Time: 1328.23 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 1333.36 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 224, ISO 100
+Time: 1333.46 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 1341.24 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 225, ISO 100
+Time: 1341.38 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Time: 1346.51 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 226, ISO 100
+Time: 1346.6 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Time: 1351.77 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 227, ISO 100
+Time: 1351.86 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 1359.58 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 228, ISO 100
+Time: 1359.71 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 1364.84 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 229, ISO 100
+Time: 1364.97 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 1370.13 minutes
+fan off, t=27.0C, humidity=61.0%
+Iteration 230, ISO 100
+Time: 1370.31 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 1378.16 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 231, ISO 100
+Time: 1378.28 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 1383.41 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 232, ISO 100
+Time: 1383.54 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 1388.67 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 233, ISO 100
+Time: 1388.76 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 1396.6 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 234, ISO 100
+Time: 1396.75 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 1401.87 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 235, ISO 100
+Time: 1402.05 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Time: 1407.18 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 236, ISO 100
+Time: 1407.27 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 1415.26 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 237, ISO 100
+Time: 1415.38 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 1420.51 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 238, ISO 100
+Time: 1420.6 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 1425.81 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 239, ISO 100
+Time: 1425.9 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 1433.72 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 240, ISO 100
+Time: 1433.83 minutes
+fan off, t=27.0C, humidity=60.0%
+ISO 800
+
+
+Time: 1439.01 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 241, ISO 100
+Time: 1439.1 minutes
+fan off, t=27.0C, humidity=62.0%
+ISO 800
+
+
+Time: 1444.23 minutes
+fan off, t=27.0C, humidity=62.0%
+Iteration 242, ISO 100
+Time: 1444.32 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 1451.74 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 243, ISO 100
+Time: 1451.84 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 1456.97 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 244, ISO 100
+Time: 1457.1 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 1462.23 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 245, ISO 100
+Time: 1462.36 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 1469.86 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 246, ISO 100
+Time: 1469.98 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 1475.11 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 247, ISO 100
+Time: 1475.28 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 1480.41 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 248, ISO 100
+Time: 1480.58 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 1488.03 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 249, ISO 100
+Time: 1488.16 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 1493.29 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 250, ISO 100
+Time: 1493.38 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Time: 1498.51 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 251, ISO 100
+Time: 1498.64 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 1506.07 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 252, ISO 100
+Time: 1506.25 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 1511.37 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 253, ISO 100
+Time: 1511.51 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 1516.64 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 254, ISO 100
+Time: 1516.77 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 1524.3 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 255, ISO 100
+Time: 1524.39 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Time: 1529.52 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 256, ISO 100
+Time: 1529.61 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 1534.78 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 257, ISO 100
+Time: 1534.88 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 1542.48 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 258, ISO 100
+Time: 1542.66 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 1547.87 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 259, ISO 100
+Time: 1548.0 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 1553.13 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 260, ISO 100
+Time: 1553.26 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 1560.93 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 261, ISO 100
+Time: 1561.03 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 1566.16 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 262, ISO 100
+Time: 1566.25 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 1571.44 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 263, ISO 100
+Time: 1571.66 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 1579.37 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 264, ISO 100
+Time: 1579.52 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 1584.65 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 265, ISO 100
+Time: 1584.74 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Time: 1589.87 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 266, ISO 100
+Time: 1590.04 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 1597.8 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 267, ISO 100
+Time: 1597.9 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 1603.03 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 268, ISO 100
+Time: 1603.21 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 1608.33 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 269, ISO 100
+Time: 1608.46 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 1616.14 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 270, ISO 100
+Time: 1616.26 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 1621.38 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 271, ISO 100
+Time: 1621.6 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 1626.77 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 272, ISO 100
+Time: 1626.9 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 1634.69 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 273, ISO 100
+Time: 1634.85 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 1640.02 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 274, ISO 100
+Time: 1640.11 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Time: 1645.23 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 275, ISO 100
+Time: 1645.32 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 1653.18 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 276, ISO 100
+Time: 1653.3 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 1658.47 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 277, ISO 100
+Time: 1658.6 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 1663.81 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 278, ISO 100
+Time: 1663.99 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 1671.88 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 279, ISO 100
+Time: 1672.07 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 1677.2 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 280, ISO 100
+Time: 1677.29 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 1682.42 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 281, ISO 100
+Time: 1682.51 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 1689.9 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 282, ISO 100
+Time: 1690.0 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 1695.13 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 283, ISO 100
+Time: 1695.26 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 1700.43 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 284, ISO 100
+Time: 1700.6 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 1708.15 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 285, ISO 100
+Time: 1708.29 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 1713.5 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 286, ISO 100
+Time: 1713.59 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 1718.72 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 287, ISO 100
+Time: 1718.85 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 1726.28 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 288, ISO 100
+Time: 1726.42 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 1731.59 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 289, ISO 100
+Time: 1731.72 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 1736.85 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 290, ISO 100
+Time: 1736.95 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 1744.55 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 291, ISO 100
+Time: 1744.69 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 1749.94 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 292, ISO 100
+Time: 1750.07 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 1755.2 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 293, ISO 100
+Time: 1755.29 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 1763.07 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 294, ISO 100
+Time: 1763.21 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 1768.34 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 295, ISO 100
+Time: 1768.43 minutes
+fan on, t=29.0C, humidity=44.0%
+ISO 800
+
+
+Time: 1773.57 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 296, ISO 100
+Time: 1773.66 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 1781.16 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 297, ISO 100
+Time: 1781.26 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 1786.39 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 298, ISO 100
+Time: 1786.52 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 1791.65 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 299, ISO 100
+Time: 1791.83 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 1799.5 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 300, ISO 100
+Time: 1799.64 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 1804.77 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 301, ISO 100
+Time: 1804.89 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 1810.19 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 302, ISO 100
+Time: 1810.28 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 1817.94 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 303, ISO 100
+Time: 1818.05 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 1823.17 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 304, ISO 100
+Time: 1823.31 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 1828.52 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 305, ISO 100
+Time: 1828.61 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 1836.32 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 306, ISO 100
+Time: 1836.46 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 1841.63 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 307, ISO 100
+Time: 1841.72 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 1846.85 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 308, ISO 100
+Time: 1846.98 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 1854.7 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 309, ISO 100
+Time: 1854.9 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 1860.11 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 310, ISO 100
+Time: 1860.24 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 1865.37 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 311, ISO 100
+Time: 1865.5 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 1873.57 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 312, ISO 100
+Time: 1873.86 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 1879.07 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 313, ISO 100
+Time: 1879.2 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 1884.33 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 314, ISO 100
+Time: 1884.42 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 1892.19 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 315, ISO 100
+Time: 1892.31 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 1897.44 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 316, ISO 100
+Time: 1897.53 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 1902.65 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 317, ISO 100
+Time: 1902.79 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 1910.61 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 318, ISO 100
+Time: 1910.72 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 1915.85 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 319, ISO 100
+Time: 1915.94 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 1921.15 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 320, ISO 100
+Time: 1921.28 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 1928.74 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 321, ISO 100
+Time: 1928.84 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 1933.97 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 322, ISO 100
+Time: 1934.1 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 1939.27 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 323, ISO 100
+Time: 1939.52 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 1946.9 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 324, ISO 100
+Time: 1947.05 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 1952.17 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 325, ISO 100
+Time: 1952.31 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 1957.43 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 326, ISO 100
+Time: 1957.52 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 1965.4 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 327, ISO 100
+Time: 1965.5 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 1970.67 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 328, ISO 100
+Time: 1970.93 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 1976.09 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 329, ISO 100
+Time: 1976.18 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 1983.71 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 330, ISO 100
+Time: 1983.82 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 1988.95 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 331, ISO 100
+Time: 1989.08 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 1994.21 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 332, ISO 100
+Time: 1994.34 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 2001.92 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 333, ISO 100
+Time: 2002.1 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 2007.31 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 334, ISO 100
+Time: 2007.48 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 2012.65 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 335, ISO 100
+Time: 2012.78 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 2020.43 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 336, ISO 100
+Time: 2020.54 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 2025.67 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 337, ISO 100
+Time: 2025.8 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 2030.93 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 338, ISO 100
+Time: 2031.06 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 2038.7 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 339, ISO 100
+Time: 2038.85 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 2044.01 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 340, ISO 100
+Time: 2044.19 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 2049.31 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 341, ISO 100
+Time: 2049.49 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 2057.23 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 342, ISO 100
+Time: 2057.38 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 2062.6 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 343, ISO 100
+Time: 2062.73 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 2067.86 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 344, ISO 100
+Time: 2068.03 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 2075.9 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 345, ISO 100
+Time: 2076.13 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 2081.26 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 346, ISO 100
+Time: 2081.38 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 2086.51 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 347, ISO 100
+Time: 2086.63 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 2094.5 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 348, ISO 100
+Time: 2094.62 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 2099.74 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 349, ISO 100
+Time: 2099.83 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 2105.0 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 350, ISO 100
+Time: 2105.09 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 2113.16 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 351, ISO 100
+Time: 2113.26 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 2118.39 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 352, ISO 100
+Time: 2118.48 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 2123.61 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 353, ISO 100
+Time: 2123.74 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 2131.56 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 354, ISO 100
+Time: 2131.67 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 2136.79 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 355, ISO 100
+Time: 2136.97 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 2142.14 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 356, ISO 100
+Time: 2142.31 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 2150.14 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 357, ISO 100
+Time: 2150.24 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 2155.42 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 358, ISO 100
+Time: 2155.5 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 2160.63 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 359, ISO 100
+Time: 2160.72 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 2168.59 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 360, ISO 100
+Time: 2168.7 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 2173.83 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 361, ISO 100
+Time: 2173.96 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 2179.13 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 362, ISO 100
+Time: 2179.25 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 2186.79 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 363, ISO 100
+Time: 2186.89 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 2192.06 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 364, ISO 100
+Time: 2192.27 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 2197.39 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 365, ISO 100
+Time: 2197.52 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 2205.18 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 366, ISO 100
+Time: 2205.36 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 2210.49 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 367, ISO 100
+Time: 2210.6 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 2215.73 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 368, ISO 100
+Time: 2215.81 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 2223.35 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 369, ISO 100
+Time: 2223.45 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 2228.58 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 370, ISO 100
+Time: 2228.71 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 2233.84 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 371, ISO 100
+Time: 2233.97 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 2241.77 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 372, ISO 100
+Time: 2241.88 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 2247.09 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 373, ISO 100
+Time: 2247.21 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 2252.34 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 374, ISO 100
+Time: 2252.46 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 2260.25 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 375, ISO 100
+Time: 2260.52 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 2265.65 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 376, ISO 100
+Time: 2265.77 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 2270.9 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 377, ISO 100
+Time: 2270.99 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 2278.68 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 378, ISO 100
+Time: 2278.82 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 2283.95 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 379, ISO 100
+Time: 2284.11 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Time: 2289.28 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 380, ISO 100
+Time: 2289.4 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 2297.29 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 381, ISO 100
+Time: 2297.4 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 2302.53 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 382, ISO 100
+Time: 2302.66 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 2307.79 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 383, ISO 100
+Time: 2308.04 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 2315.81 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 384, ISO 100
+Time: 2316.0 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 2321.13 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 385, ISO 100
+Time: 2321.26 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 2326.39 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 386, ISO 100
+Time: 2326.47 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 2334.35 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 387, ISO 100
+Time: 2334.45 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 2339.58 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 388, ISO 100
+Time: 2339.71 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Time: 2344.88 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 389, ISO 100
+Time: 2345.05 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 2352.77 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 390, ISO 100
+Time: 2352.88 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 2358.01 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 391, ISO 100
+Time: 2358.17 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 2363.3 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 392, ISO 100
+Time: 2363.38 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 2371.2 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 393, ISO 100
+Time: 2371.32 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 2376.44 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 394, ISO 100
+Time: 2376.53 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 2381.75 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 395, ISO 100
+Time: 2381.88 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 2389.8 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 396, ISO 100
+Time: 2390.0 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 2395.16 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 397, ISO 100
+Time: 2395.25 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 2400.38 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 398, ISO 100
+Time: 2400.47 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 2408.28 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 399, ISO 100
+Time: 2408.39 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 2413.52 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 400, ISO 100
+Time: 2413.65 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 2418.78 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 401, ISO 100
+Time: 2418.87 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 2426.44 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 402, ISO 100
+Time: 2426.57 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 2431.7 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 403, ISO 100
+Time: 2431.79 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 2436.92 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 404, ISO 100
+Time: 2437.05 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 2444.8 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 405, ISO 100
+Time: 2444.9 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 2450.05 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 406, ISO 100
+Time: 2450.13 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 2455.26 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 407, ISO 100
+Time: 2455.39 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 2463.16 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 408, ISO 100
+Time: 2463.27 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 2468.4 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 409, ISO 100
+Time: 2468.57 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Time: 2473.7 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 410, ISO 100
+Time: 2473.82 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 2481.69 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 411, ISO 100
+Time: 2481.87 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 2487.0 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 412, ISO 100
+Time: 2487.08 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 2492.21 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 413, ISO 100
+Time: 2492.29 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 2499.95 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 414, ISO 100
+Time: 2500.06 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 2505.19 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 415, ISO 100
+Time: 2505.28 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 2510.41 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 416, ISO 100
+Time: 2510.5 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 2518.39 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 417, ISO 100
+Time: 2518.49 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 2523.62 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 418, ISO 100
+Time: 2523.71 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 2528.84 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 419, ISO 100
+Time: 2528.93 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 2536.66 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 420, ISO 100
+Time: 2536.8 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 2541.93 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 421, ISO 100
+Time: 2542.06 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 2547.18 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 422, ISO 100
+Time: 2547.32 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 2555.01 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 423, ISO 100
+Time: 2555.13 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 2560.3 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 424, ISO 100
+Time: 2560.43 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 2565.56 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 425, ISO 100
+Time: 2565.69 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 2573.49 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 426, ISO 100
+Time: 2573.65 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 2578.82 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 427, ISO 100
+Time: 2578.91 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 2584.08 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 428, ISO 100
+Time: 2584.21 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 2592.18 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 429, ISO 100
+Time: 2592.34 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 2597.52 minutes
+fan on, t=29.0C, humidity=53.0%
+Iteration 430, ISO 100
+Time: 2597.61 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 2602.74 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 431, ISO 100
+Time: 2602.83 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 2610.74 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 432, ISO 100
+Time: 2610.85 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 2615.98 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 433, ISO 100
+Time: 2616.12 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 2621.24 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 434, ISO 100
+Time: 2621.38 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 2629.18 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 435, ISO 100
+Time: 2629.34 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 2634.47 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 436, ISO 100
+Time: 2634.6 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 2639.73 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 437, ISO 100
+Time: 2639.86 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 2647.72 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 438, ISO 100
+Time: 2647.9 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 2653.12 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 439, ISO 100
+Time: 2653.29 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 2658.51 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 440, ISO 100
+Time: 2658.64 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 2666.27 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 441, ISO 100
+Time: 2666.42 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 2671.59 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 442, ISO 100
+Time: 2671.72 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 2676.85 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 443, ISO 100
+Time: 2676.98 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 2684.79 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 444, ISO 100
+Time: 2684.92 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 2690.05 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 445, ISO 100
+Time: 2690.14 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 2695.31 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 446, ISO 100
+Time: 2695.4 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 2703.33 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 447, ISO 100
+Time: 2703.48 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 2708.61 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 448, ISO 100
+Time: 2708.74 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 2713.87 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 449, ISO 100
+Time: 2714.08 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 2721.79 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 450, ISO 100
+Time: 2721.89 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 2727.02 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 451, ISO 100
+Time: 2727.15 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 2732.28 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 452, ISO 100
+Time: 2732.36 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 2740.02 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 453, ISO 100
+Time: 2740.16 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 2745.32 minutes
+fan off, t=28.0C, humidity=63.0%
+Iteration 454, ISO 100
+Time: 2745.46 minutes
+fan off, t=28.0C, humidity=63.0%
+ISO 800
+
+
+Time: 2750.58 minutes
+fan off, t=28.0C, humidity=63.0%
+Iteration 455, ISO 100
+Time: 2750.75 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 2758.39 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 456, ISO 100
+Time: 2758.5 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 2763.71 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 457, ISO 100
+Time: 2763.84 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 2768.97 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 458, ISO 100
+Time: 2769.06 minutes
+fan off, t=28.0C, humidity=63.0%
+ISO 800
+
+
+Making GIF...
+Time: 2777.12 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 459, ISO 100
+Time: 2777.27 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 2782.44 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 460, ISO 100
+Time: 2782.57 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 2787.73 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 461, ISO 100
+Time: 2787.82 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 2795.6 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 462, ISO 100
+Time: 2795.71 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 2800.84 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 463, ISO 100
+Time: 2801.05 minutes
+fan off, t=28.0C, humidity=63.0%
+ISO 800
+
+
+Time: 2806.39 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 464, ISO 100
+Time: 2806.52 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 2814.34 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 465, ISO 100
+Time: 2814.44 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 2819.57 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 466, ISO 100
+Time: 2819.7 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 2824.95 minutes
+fan off, t=28.0C, humidity=63.0%
+Iteration 467, ISO 100
+Time: 2825.04 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 2832.86 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 468, ISO 100
+Time: 2833.02 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 2838.23 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 469, ISO 100
+Time: 2838.45 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 2843.74 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 470, ISO 100
+Time: 2843.83 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 2851.86 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 471, ISO 100
+Time: 2851.96 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 2857.22 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 472, ISO 100
+Time: 2857.35 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 2862.56 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 473, ISO 100
+Time: 2862.69 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 2870.71 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 474, ISO 100
+Time: 2870.83 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 2876.0 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 475, ISO 100
+Time: 2876.13 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 2881.26 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 476, ISO 100
+Time: 2881.39 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 2889.11 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 477, ISO 100
+Time: 2889.27 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 2894.44 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 478, ISO 100
+Time: 2894.57 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 2899.7 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 479, ISO 100
+Time: 2899.78 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 2907.63 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 480, ISO 100
+Time: 2907.79 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 2912.92 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 481, ISO 100
+Time: 2913.0 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 2918.13 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 482, ISO 100
+Time: 2918.22 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 2925.89 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 483, ISO 100
+Time: 2925.99 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 2931.12 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 484, ISO 100
+Time: 2931.25 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Time: 2936.38 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 485, ISO 100
+Time: 2936.47 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 2944.23 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 486, ISO 100
+Time: 2944.37 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 2949.51 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 487, ISO 100
+Time: 2949.68 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 2954.81 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 488, ISO 100
+Time: 2955.03 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 2962.73 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 489, ISO 100
+Time: 2962.93 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 2968.05 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 490, ISO 100
+Time: 2968.19 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 2973.31 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 491, ISO 100
+Time: 2973.4 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 2981.13 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 492, ISO 100
+Time: 2981.23 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 2986.36 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 493, ISO 100
+Time: 2986.49 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 2991.65 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 494, ISO 100
+Time: 2991.78 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 2999.48 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 495, ISO 100
+Time: 2999.66 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3004.79 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 496, ISO 100
+Time: 3004.88 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Time: 3010.01 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 497, ISO 100
+Time: 3010.09 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 3017.86 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 498, ISO 100
+Time: 3017.98 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 3023.15 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 499, ISO 100
+Time: 3023.26 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3028.39 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 500, ISO 100
+Time: 3028.48 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 3036.23 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 501, ISO 100
+Time: 3036.33 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3041.46 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 502, ISO 100
+Time: 3041.59 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 3046.72 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 503, ISO 100
+Time: 3046.81 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 3054.57 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 504, ISO 100
+Time: 3054.71 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3059.89 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 505, ISO 100
+Time: 3059.98 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Time: 3065.11 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 506, ISO 100
+Time: 3065.2 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 3073.02 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 507, ISO 100
+Time: 3073.18 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 3078.35 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 508, ISO 100
+Time: 3078.48 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 3083.61 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 509, ISO 100
+Time: 3083.7 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 3091.54 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 510, ISO 100
+Time: 3091.73 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3096.86 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 511, ISO 100
+Time: 3096.95 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 3102.12 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 512, ISO 100
+Time: 3102.25 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 3110.09 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 513, ISO 100
+Time: 3110.25 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 3115.38 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 514, ISO 100
+Time: 3115.47 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Time: 3120.6 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 515, ISO 100
+Time: 3120.69 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 3128.48 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 516, ISO 100
+Time: 3128.59 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 3133.72 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 517, ISO 100
+Time: 3133.85 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 3138.98 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 518, ISO 100
+Time: 3139.07 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 3147.01 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 519, ISO 100
+Time: 3147.22 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Time: 3152.35 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 520, ISO 100
+Time: 3152.44 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 3157.61 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 521, ISO 100
+Time: 3157.74 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 3165.49 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 522, ISO 100
+Time: 3165.6 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 3170.73 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 523, ISO 100
+Time: 3170.82 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Time: 3175.94 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 524, ISO 100
+Time: 3176.03 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 3183.8 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 525, ISO 100
+Time: 3183.92 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 3189.09 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 526, ISO 100
+Time: 3189.18 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3194.34 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 527, ISO 100
+Time: 3194.47 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 3202.32 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 528, ISO 100
+Time: 3202.43 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 3207.6 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 529, ISO 100
+Time: 3207.69 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Time: 3212.82 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 530, ISO 100
+Time: 3212.91 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 3220.57 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 531, ISO 100
+Time: 3220.71 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 3225.92 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 532, ISO 100
+Time: 3226.14 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3231.27 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 533, ISO 100
+Time: 3231.36 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 3239.17 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 534, ISO 100
+Time: 3239.28 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 3244.41 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 535, ISO 100
+Time: 3244.5 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Time: 3249.63 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 536, ISO 100
+Time: 3249.76 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 3257.8 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 537, ISO 100
+Time: 3257.91 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3263.21 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 538, ISO 100
+Time: 3263.3 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3268.47 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 539, ISO 100
+Time: 3268.6 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 3276.45 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 540, ISO 100
+Time: 3276.61 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 3281.74 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 541, ISO 100
+Time: 3281.83 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 3286.95 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 542, ISO 100
+Time: 3287.09 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 3295.07 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 543, ISO 100
+Time: 3295.21 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3300.34 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 544, ISO 100
+Time: 3300.43 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3305.6 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 545, ISO 100
+Time: 3305.69 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 3313.5 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 546, ISO 100
+Time: 3313.68 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 3318.97 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 547, ISO 100
+Time: 3319.06 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 3324.23 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 548, ISO 100
+Time: 3324.32 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 3332.19 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 549, ISO 100
+Time: 3332.3 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3337.43 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 550, ISO 100
+Time: 3337.61 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3342.73 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 551, ISO 100
+Time: 3342.82 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 3350.67 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 552, ISO 100
+Time: 3350.78 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 3355.96 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 553, ISO 100
+Time: 3356.05 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 3361.22 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 554, ISO 100
+Time: 3361.4 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 3369.39 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 555, ISO 100
+Time: 3369.55 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3374.68 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 556, ISO 100
+Time: 3374.77 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3379.9 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 557, ISO 100
+Time: 3379.99 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 3387.81 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 558, ISO 100
+Time: 3387.93 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 3393.1 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 559, ISO 100
+Time: 3393.23 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 3398.41 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 560, ISO 100
+Time: 3398.5 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 3406.36 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 561, ISO 100
+Time: 3406.47 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3411.6 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 562, ISO 100
+Time: 3411.73 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3416.86 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 563, ISO 100
+Time: 3417.03 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 3424.97 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 564, ISO 100
+Time: 3425.16 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3430.34 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 565, ISO 100
+Time: 3430.55 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 3435.68 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 566, ISO 100
+Time: 3435.85 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 3443.56 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 567, ISO 100
+Time: 3443.67 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 3448.84 minutes
+fan off, t=27.0C, humidity=61.0%
+Iteration 568, ISO 100
+Time: 3448.97 minutes
+fan off, t=27.0C, humidity=61.0%
+ISO 800
+
+
+Time: 3454.1 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 569, ISO 100
+Time: 3454.23 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 3461.94 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 570, ISO 100
+Time: 3462.04 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3467.22 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 571, ISO 100
+Time: 3467.35 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3472.48 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 572, ISO 100
+Time: 3472.61 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 3480.5 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 573, ISO 100
+Time: 3480.62 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 3485.76 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 574, ISO 100
+Time: 3485.98 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 3491.49 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 575, ISO 100
+Time: 3491.63 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 3499.66 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 576, ISO 100
+Time: 3499.84 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3504.97 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 577, ISO 100
+Time: 3505.1 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3510.23 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 578, ISO 100
+Time: 3510.41 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 3518.29 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 579, ISO 100
+Time: 3518.41 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Time: 3523.63 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 580, ISO 100
+Time: 3523.77 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Time: 3528.89 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 581, ISO 100
+Time: 3529.03 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 3536.85 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 582, ISO 100
+Time: 3536.97 minutes
+fan off, t=27.0C, humidity=61.0%
+ISO 800
+
+
+Time: 3542.1 minutes
+fan off, t=27.0C, humidity=61.0%
+Iteration 583, ISO 100
+Time: 3542.19 minutes
+fan off, t=27.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3547.32 minutes
+fan off, t=27.0C, humidity=60.0%
+Iteration 584, ISO 100
+Time: 3547.45 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 3555.36 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 585, ISO 100
+Time: 3555.52 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3560.65 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 586, ISO 100
+Time: 3560.78 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3565.91 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 587, ISO 100
+Time: 3566.14 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 3574.0 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 588, ISO 100
+Time: 3574.29 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Time: 3579.47 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 589, ISO 100
+Time: 3579.65 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 3584.82 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 590, ISO 100
+Time: 3584.95 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 3592.76 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 591, ISO 100
+Time: 3592.91 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 3598.04 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 592, ISO 100
+Time: 3598.13 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 3603.35 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 593, ISO 100
+Time: 3603.44 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 3611.41 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 594, ISO 100
+Time: 3611.52 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 3616.69 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 595, ISO 100
+Time: 3616.82 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 3621.95 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 596, ISO 100
+Time: 3622.08 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 3630.02 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 597, ISO 100
+Time: 3630.13 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 3635.26 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 598, ISO 100
+Time: 3635.43 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3640.57 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 599, ISO 100
+Time: 3640.66 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 3648.57 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 600, ISO 100
+Time: 3648.73 minutes
+fan off, t=27.0C, humidity=61.0%
+ISO 800
+
+
+Time: 3653.86 minutes
+fan off, t=27.0C, humidity=61.0%
+Iteration 601, ISO 100
+Time: 3653.96 minutes
+fan off, t=27.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3659.08 minutes
+fan off, t=27.0C, humidity=60.0%
+Iteration 602, ISO 100
+Time: 3659.17 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 3666.85 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 603, ISO 100
+Time: 3666.96 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3672.13 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 604, ISO 100
+Time: 3672.22 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Time: 3677.36 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 605, ISO 100
+Time: 3677.49 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 3685.18 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 606, ISO 100
+Time: 3685.34 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Time: 3690.47 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 607, ISO 100
+Time: 3690.61 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Time: 3695.78 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 608, ISO 100
+Time: 3695.91 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 3703.64 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 609, ISO 100
+Time: 3703.87 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 3709.06 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 610, ISO 100
+Time: 3709.15 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3714.28 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 611, ISO 100
+Time: 3714.37 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 3722.23 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 612, ISO 100
+Time: 3722.39 minutes
+fan off, t=27.0C, humidity=61.0%
+ISO 800
+
+
+Time: 3727.52 minutes
+fan off, t=27.0C, humidity=61.0%
+Iteration 613, ISO 100
+Time: 3727.61 minutes
+fan off, t=27.0C, humidity=62.0%
+ISO 800
+
+
+Time: 3732.79 minutes
+fan off, t=27.0C, humidity=62.0%
+Iteration 614, ISO 100
+Time: 3732.87 minutes
+fan off, t=27.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 3740.83 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 615, ISO 100
+Time: 3740.94 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 3746.08 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 616, ISO 100
+Time: 3746.21 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 3751.35 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 617, ISO 100
+Time: 3751.48 minutes
+fan off, t=28.0C, humidity=61.0%Killed
+
+ISO 800
+
+
+Making GIF...
+Time: 3759.3 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 618, ISO 100
+Time: 3759.4 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3764.62 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 619, ISO 100
+Time: 3764.79 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3770.04 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 620, ISO 100
+Time: 3770.27 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 3778.08 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 621, ISO 100
+Time: 3778.24 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3783.38 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 622, ISO 100
+Time: 3783.51 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3788.64 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 623, ISO 100
+Time: 3788.77 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 3796.81 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 624, ISO 100
+Time: 3796.96 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3802.1 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 625, ISO 100
+Time: 3802.41 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 3807.58 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 626, ISO 100
+Time: 3807.76 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 3815.52 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 627, ISO 100
+Time: 3815.69 minutes
+fan off, t=27.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3820.82 minutes
+fan off, t=27.0C, humidity=62.0%
+Iteration 628, ISO 100
+Time: 3820.92 minutes
+fan off, t=27.0C, humidity=62.0%
+ISO 800
+
+
+Time: 3826.05 minutes
+fan off, t=27.0C, humidity=46.0%
+Iteration 629, ISO 100
+Time: 3826.14 minutes
+fan off, t=27.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 3840.92 minutes
+fan off, t=27.0C, humidity=62.0%
+Iteration 630, ISO 100
+Time: 3841.03 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 3846.17 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 631, ISO 100
+Time: 3846.35 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3851.48 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 632, ISO 100
+Time: 3851.61 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 3859.53 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 633, ISO 100
+Time: 3859.73 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3864.99 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 634, ISO 100
+Time: 3865.09 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3870.26 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 635, ISO 100
+Time: 3870.39 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 3895.92 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 636, ISO 100
+Time: 3896.03 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3901.2 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 637, ISO 100
+Time: 3901.33 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3906.46 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 638, ISO 100
+Time: 3906.59 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 3914.56 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 639, ISO 100
+Time: 3914.67 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3919.8 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 640, ISO 100
+Time: 3919.97 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3925.11 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 641, ISO 100
+Time: 3925.2 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 3932.94 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 642, ISO 100
+Time: 3933.1 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3938.23 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 643, ISO 100
+Time: 3938.36 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3943.49 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 644, ISO 100
+Time: 3943.58 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 3951.3 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 645, ISO 100
+Time: 3951.41 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Time: 3956.54 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 646, ISO 100
+Time: 3956.63 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 3961.76 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 647, ISO 100
+Time: 3961.89 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 3969.63 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 648, ISO 100
+Time: 3969.74 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3974.88 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 649, ISO 100
+Time: 3975.01 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3980.14 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 650, ISO 100
+Time: 3980.31 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 3988.15 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 651, ISO 100
+Time: 3988.26 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3993.4 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 652, ISO 100
+Time: 3993.49 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 3998.63 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 653, ISO 100
+Time: 3998.77 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 4006.56 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 654, ISO 100
+Time: 4006.71 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 4011.85 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 655, ISO 100
+Time: 4011.98 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 4017.24 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 656, ISO 100
+Time: 4017.38 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 4025.16 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 657, ISO 100
+Time: 4025.28 minutes
+fan off, t=27.0C, humidity=60.0%
+ISO 800
+
+
+Time: 4030.41 minutes
+fan off, t=27.0C, humidity=60.0%
+Iteration 658, ISO 100
+Time: 4030.55 minutes
+fan off, t=27.0C, humidity=62.0%
+ISO 800
+
+
+Time: 4035.76 minutes
+fan off, t=27.0C, humidity=62.0%
+Iteration 659, ISO 100
+Time: 4035.9 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 4043.67 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 660, ISO 100
+Time: 4043.8 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 4048.93 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 661, ISO 100
+Time: 4049.02 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 4054.16 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 662, ISO 100
+Time: 4054.34 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 4062.45 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 663, ISO 100
+Time: 4062.55 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 4067.69 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 664, ISO 100
+Time: 4067.83 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 4072.96 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 665, ISO 100
+Time: 4073.05 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 4080.94 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 666, ISO 100
+Time: 4081.06 minutes
+fan off, t=27.0C, humidity=61.0%
+ISO 800
+
+
+Time: 4086.19 minutes
+fan off, t=27.0C, humidity=61.0%
+Iteration 667, ISO 100
+Time: 4086.28 minutes
+fan off, t=26.0C, humidity=60.0%
+ISO 800
+
+
+Time: 4091.5 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 668, ISO 100
+Time: 4091.59 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 4552.8 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 669, ISO 100
+Time: 4552.92 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 4558.13 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 670, ISO 100
+Time: 4558.21 minutes
+fan on, t=30.0C, humidity=58.0%
+ISO 800
+
+
+Time: 4563.34 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 671, ISO 100
+Time: 4563.43 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 4571.23 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 672, ISO 100
+Time: 4571.34 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 4576.47 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 673, ISO 100
+Time: 4576.56 minutesKilled
+Killed
+
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 4581.69 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 674, ISO 100
+Time: 4581.78 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 4899.18 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 675, ISO 100
+Time: 4899.55 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 4904.63 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 676, ISO 100
+Time: 4904.71 minutes
+fan on, t=30.0C, humidity=58.0%
+ISO 800
+
+
+Time: 4909.84 minutes
+fan on, t=30.0C, humidity=58.0%
+Iteration 677, ISO 100
+Time: 4909.98 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 4918.15 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 678, ISO 100
+Time: 4918.35 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 4923.57 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 679, ISO 100
+Time: 4923.66 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 4928.79 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 680, ISO 100
+Time: 4928.88 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 4936.73 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 681, ISO 100
+Time: 4936.93 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 4942.1 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 682, ISO 100
+Time: 4942.19 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 4947.32 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 683, ISO 100
+Time: 4947.45 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 4955.2 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 684, ISO 100
+Time: 4955.31 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 4960.52 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 685, ISO 100
+Time: 4960.65 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 4965.82 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 686, ISO 100
+Time: 4966.03 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 4973.87 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 687, ISO 100
+Time: 4974.07 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 4979.2 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 688, ISO 100
+Time: 4979.29 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Time: 4984.42 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 689, ISO 100
+Time: 4984.59 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 4992.28 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 690, ISO 100
+Time: 4992.42 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 4997.55 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 691, ISO 100
+Time: 4997.64 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 5002.81 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 692, ISO 100
+Time: 5002.94 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 5010.8 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 693, ISO 100
+Time: 5010.92 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 5016.04 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 694, ISO 100
+Time: 5016.13 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 5021.26 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 695, ISO 100
+Time: 5021.39 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 5029.09 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 696, ISO 100
+Time: 5029.19 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 5034.32 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 697, ISO 100
+Time: 5034.46 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Time: 5039.59 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 698, ISO 100
+Time: 5039.68 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 5047.5 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 699, ISO 100
+Time: 5047.66 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 5052.79 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 700, ISO 100
+Time: 5052.88 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 5058.0 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 701, ISO 100
+Time: 5058.14 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 5065.88 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 702, ISO 100
+Time: 5066.07 minutes
+fan off, t=28.0C, humidity=53.0%
+ISO 800
+
+
+Time: 5071.25 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 703, ISO 100
+Time: 5071.34 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 5076.55 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 704, ISO 100
+Time: 5076.64 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 5084.48 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 705, ISO 100
+Time: 5084.6 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 5089.81 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 706, ISO 100
+Time: 5089.94 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 5095.07 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 707, ISO 100
+Time: 5095.16 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 5327.27 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 708, ISO 100
+Time: 5327.58 minutes
+fan off, t=24.0C, humidity=63.0%
+ISO 800
+
+
+Time: 5332.75 minutes
+fan off, t=25.0C, humidity=63.0%
+Iteration 709, ISO 100
+Time: 5332.84 minutes
+fan off, t=25.0C, humidity=63.0%
+ISO 800
+
+
+Time: 5338.09 minutes
+fan off, t=25.0C, humidity=63.0%
+Iteration 710, ISO 100
+Time: 5338.18 minutes
+fan off, t=25.0C, humidity=63.0%
+ISO 800
+
+
+Making GIF...
+Time: 5346.02 minutes
+fan off, t=25.0C, humidity=63.0%
+Iteration 711, ISO 100
+Time: 5346.14 minutes
+fan off, t=26.0C, humidity=63.0%
+ISO 800
+
+
+Time: 5351.4 minutes
+fan off, t=26.0C, humidity=62.0%
+Iteration 712, ISO 100
+Time: 5351.48 minutes
+fan off, t=26.0C, humidity=62.0%
+ISO 800
+
+
+Time: 5356.61 minutes
+fan off, t=26.0C, humidity=62.0%
+Iteration 713, ISO 100
+Time: 5356.83 minutes
+fan off, t=27.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 5364.78 minutes
+fan off, t=27.0C, humidity=60.0%
+Iteration 714, ISO 100
+Time: 5364.93 minutes
+fan off, t=27.0C, humidity=60.0%
+ISO 800
+
+
+Time: 5370.07 minutes
+fan off, t=27.0C, humidity=60.0%
+Iteration 715, ISO 100
+Time: 5370.2 minutes
+fan off, t=27.0C, humidity=60.0%
+ISO 800
+
+
+Time: 5375.41 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 716, ISO 100
+Time: 5375.5 minutes
+fan off, t=27.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 5383.42 minutes
+fan off, t=27.0C, humidity=60.0%
+Iteration 717, ISO 100
+Time: 5383.53 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 5388.66 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 718, ISO 100
+Time: 5388.75 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 5393.88 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 719, ISO 100
+Time: 5394.05 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 5402.17 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 720, ISO 100
+Time: 5402.33 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Time: 5407.46 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 721, ISO 100
+Time: 5407.55 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Time: 5412.76 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 722, ISO 100
+Time: 5412.85 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 5420.71 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 723, ISO 100
+Time: 5420.83 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Time: 5425.95 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 724, ISO 100
+Time: 5426.04 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Time: 5431.26 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 725, ISO 100
+Time: 5431.39 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 5439.21 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 726, ISO 100
+Time: 5439.33 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 5444.59 minutes
+fan off, t=27.0C, humidity=60.0%
+Iteration 727, ISO 100
+Time: 5444.67 minutes
+fan off, t=27.0C, humidity=60.0%
+ISO 800
+
+
+Time: 5449.8 minutes
+fan off, t=27.0C, humidity=60.0%
+Iteration 728, ISO 100
+Time: 5449.93 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 5457.65 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 729, ISO 100
+Time: 5457.76 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 5462.89 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 730, ISO 100
+Time: 5463.07 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 5468.2 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 731, ISO 100
+Time: 5468.29 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 5476.07 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 732, ISO 100
+Time: 5476.27 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 5481.4 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 733, ISO 100
+Time: 5481.49 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 5486.62 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 734, ISO 100
+Time: 5486.75 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 5494.64 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 735, ISO 100
+Time: 5494.74 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 5499.91 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 736, ISO 100
+Time: 5500.0 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 5505.13 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 737, ISO 100
+Time: 5505.22 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 5513.27 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 738, ISO 100
+Time: 5513.47 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 5518.6 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 739, ISO 100
+Time: 5518.69 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 5523.86 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 740, ISO 100
+Time: 5523.99 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 5531.76 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 741, ISO 100
+Time: 5531.94 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 5537.11 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 742, ISO 100
+Time: 5537.25 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 5542.37 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 743, ISO 100
+Time: 5542.5 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 5550.43 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 744, ISO 100
+Time: 5550.55 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 5555.68 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 745, ISO 100
+Time: 5555.77 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 5560.93 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 746, ISO 100
+Time: 5561.07 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 5568.96 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 747, ISO 100
+Time: 5569.11 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 5574.24 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 748, ISO 100
+Time: 5574.37 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 5579.54 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 749, ISO 100
+Time: 5579.67 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 5587.54 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 750, ISO 100
+Time: 5587.64 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 5592.77 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 751, ISO 100
+Time: 5592.9 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 5598.07 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 752, ISO 100
+Time: 5598.21 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 5606.16 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 753, ISO 100
+Time: 5606.27 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 5611.4 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 754, ISO 100
+Time: 5611.49 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 5616.66 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 755, ISO 100
+Time: 5616.83 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 5624.77 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 756, ISO 100
+Time: 5624.88 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 5630.01 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 757, ISO 100
+Time: 5630.1 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Time: 5635.27 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 758, ISO 100
+Time: 5635.49 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 5643.35 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 759, ISO 100
+Time: 5643.54 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 5648.66 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 760, ISO 100
+Time: 5648.84 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 5654.01 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 761, ISO 100
+Time: 5654.14 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 5661.84 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 762, ISO 100
+Time: 5661.95 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 5667.08 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 763, ISO 100
+Time: 5667.21 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 5672.34 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 764, ISO 100
+Time: 5672.43 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 5680.38 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 765, ISO 100
+Time: 5680.49 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 5685.67 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 766, ISO 100
+Time: 5685.8 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 5690.92 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 767, ISO 100
+Time: 5691.14 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 5698.95 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 768, ISO 100
+Time: 5699.18 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 5704.36 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 769, ISO 100
+Time: 5704.58 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 5709.71 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 770, ISO 100
+Time: 5709.84 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 5717.76 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 771, ISO 100
+Time: 5717.88 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 5723.01 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 772, ISO 100
+Time: 5723.1 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 5728.27 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 773, ISO 100
+Time: 5728.36 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 5736.2 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 774, ISO 100
+Time: 5736.35 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 5741.48 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 775, ISO 100
+Time: 5741.57 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Time: 5746.7 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 776, ISO 100
+Time: 5746.79 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 5754.73 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 777, ISO 100
+Time: 5754.85 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 5759.97 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 778, ISO 100
+Time: 5760.11 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 5765.28 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 779, ISO 100
+Time: 5765.37 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 5773.12 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 780, ISO 100
+Time: 5773.23 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 5778.37 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 781, ISO 100
+Time: 5778.47 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 5783.68 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 782, ISO 100
+Time: 5783.81 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 5791.73 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 783, ISO 100
+Time: 5791.89 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 5797.14 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 784, ISO 100
+Time: 5797.23 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 5802.4 minutes
+fan on, t=29.0C, humidity=61.0%Killed
+Killed
+Killed
+
+Iteration 785, ISO 100
+Time: 5802.58 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 5810.58 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 786, ISO 100
+Time: 5810.69 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 5815.82 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 787, ISO 100
+Time: 5815.99 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 5821.13 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 788, ISO 100
+Time: 5821.26 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 5829.14 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 789, ISO 100
+Time: 5829.24 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 5834.42 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 790, ISO 100
+Time: 5834.55 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 5839.77 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 791, ISO 100
+Time: 5839.94 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 5847.74 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 792, ISO 100
+Time: 5847.87 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Time: 5853.05 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 793, ISO 100
+Time: 5853.14 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 5858.52 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 794, ISO 100
+Time: 5858.65 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 6073.83 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 795, ISO 100
+Time: 6073.97 minutes
+fan off, t=26.0C, humidity=63.0%
+ISO 800
+
+
+Time: 6079.08 minutes
+fan off, t=26.0C, humidity=63.0%
+Iteration 796, ISO 100
+Time: 6079.22 minutes
+fan off, t=26.0C, humidity=64.0%
+ISO 800
+
+
+Time: 6084.35 minutes
+fan off, t=26.0C, humidity=64.0%
+Iteration 797, ISO 100
+Time: 6084.48 minutes
+fan off, t=27.0C, humidity=63.0%
+ISO 800
+
+
+Making GIF...
+Time: 6092.51 minutes
+fan off, t=27.0C, humidity=63.0%
+Iteration 798, ISO 100
+Time: 6092.65 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 6097.79 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 799, ISO 100
+Time: 6097.88 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 6103.05 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 800, ISO 100
+Time: 6103.14 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 6110.94 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 801, ISO 100
+Time: 6111.07 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 6116.3 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 802, ISO 100
+Time: 6116.39 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 6121.52 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 803, ISO 100
+Time: 6121.61 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 6129.37 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 804, ISO 100
+Time: 6129.63 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 6134.81 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 805, ISO 100
+Time: 6134.94 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 6140.2 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 806, ISO 100
+Time: 6140.33 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 6148.37 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 807, ISO 100
+Time: 6148.6 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 6153.78 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 808, ISO 100
+Time: 6153.87 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 6158.99 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 809, ISO 100
+Time: 6159.08 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 6166.84 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 810, ISO 100
+Time: 6167.01 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 6172.14 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 811, ISO 100
+Time: 6172.23 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 6177.36 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 812, ISO 100
+Time: 6177.49 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 6185.38 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 813, ISO 100
+Time: 6185.5 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 6190.63 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 814, ISO 100
+Time: 6190.72 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 6195.86 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 815, ISO 100
+Time: 6195.95 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 6203.81 minutes
+fan off, t=27.0C, humidity=62.0%
+Iteration 816, ISO 100
+Time: 6203.92 minutes
+fan off, t=27.0C, humidity=62.0%
+ISO 800
+
+
+Time: 6209.05 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 817, ISO 100
+Time: 6209.14 minutes
+fan off, t=27.0C, humidity=61.0%
+ISO 800
+
+
+Time: 6214.26 minutes
+fan off, t=27.0C, humidity=61.0%
+Iteration 818, ISO 100
+Time: 6214.41 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 6222.19 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 819, ISO 100
+Time: 6222.31 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 6227.44 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 820, ISO 100
+Time: 6227.58 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 6232.72 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 821, ISO 100
+Time: 6232.85 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 6240.68 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 822, ISO 100
+Time: 6240.87 minutes
+fan off, t=27.0C, humidity=62.0%
+ISO 800
+
+
+Time: 6246.05 minutes
+fan off, t=27.0C, humidity=61.0%
+Iteration 823, ISO 100
+Time: 6246.14 minutes
+fan off, t=27.0C, humidity=61.0%
+ISO 800
+
+
+Time: 6251.35 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 824, ISO 100
+Time: 6251.44 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 6259.42 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 825, ISO 100
+Time: 6259.54 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 6264.68 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 826, ISO 100
+Time: 6264.78 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 6269.95 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 827, ISO 100
+Time: 6270.09 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 6555.17 minutes
+fan off, t=25.0C, humidity=63.0%
+Iteration 828, ISO 100
+Time: 6555.41 minutes
+fan off, t=25.0C, humidity=63.0%
+ISO 800
+
+
+Time: 6560.55 minutes
+fan off, t=25.0C, humidity=64.0%
+Iteration 829, ISO 100
+Time: 6560.69 minutes
+fan off, t=25.0C, humidity=64.0%
+ISO 800
+
+
+Time: 6565.9 minutes
+fan off, t=26.0C, humidity=63.0%
+Iteration 830, ISO 100
+Time: 6566.08 minutes
+fan off, t=26.0C, humidity=63.0%
+ISO 800
+
+
+Making GIF...
+Time: 6573.94 minutes
+fan off, t=26.0C, humidity=63.0%
+Iteration 831, ISO 100
+Time: 6574.1 minutes
+fan off, t=27.0C, humidity=62.0%
+ISO 800
+
+
+Time: 6579.23 minutes
+fan off, t=27.0C, humidity=62.0%
+Iteration 832, ISO 100
+Time: 6579.46 minutes
+fan off, t=27.0C, humidity=61.0%
+ISO 800
+
+
+Time: 6584.71 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 833, ISO 100
+Time: 6584.84 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 6767.52 minutes
+fan on, t=30.0C, humidity=58.0%
+Iteration 834, ISO 100
+Time: 6767.63 minutes
+fan on, t=30.0C, humidity=58.0%
+ISO 800
+
+
+Time: 6772.85 minutes
+fan on, t=30.0C, humidity=58.0%
+Iteration 835, ISO 100
+Time: 6772.94 minutes
+fan on, t=30.0C, humidity=58.0%
+ISO 800
+
+
+Time: 6778.12 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 836, ISO 100
+Time: 6778.3 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 6786.16 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 837, ISO 100
+Time: 6786.27 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 6791.45 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 838, ISO 100
+Time: 6791.59 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 6796.72 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 839, ISO 100
+Time: 6796.81 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 7421.28 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 840, ISO 100
+Time: 7421.44 minutes
+fan off, t=26.0C, humidity=63.0%
+ISO 800
+
+
+Time: 7426.57 minutesKilled
+Killed
+
+fan off, t=26.0C, humidity=63.0%
+Iteration 841, ISO 100
+Time: 7426.66 minutes
+fan off, t=27.0C, humidity=64.0%
+ISO 800
+
+
+Time: 7431.84 minutes
+fan off, t=27.0C, humidity=63.0%
+Iteration 842, ISO 100
+Time: 7431.98 minutes
+fan off, t=28.0C, humidity=63.0%
+ISO 800
+
+
+Making GIF...
+Time: 7439.87 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 843, ISO 100
+Time: 7440.02 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 7445.16 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 844, ISO 100
+Time: 7445.33 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 7450.55 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 845, ISO 100
+Time: 7450.64 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 7458.46 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 846, ISO 100
+Time: 7458.63 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 7463.76 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 847, ISO 100
+Time: 7463.85 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 7468.99 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 848, ISO 100
+Time: 7469.17 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 7476.99 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 849, ISO 100
+Time: 7477.1 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 7482.24 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 850, ISO 100
+Time: 7482.32 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Time: 7487.5 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 851, ISO 100
+Time: 7487.65 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 7495.48 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 852, ISO 100
+Time: 7495.6 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 7500.74 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 853, ISO 100
+Time: 7501.01 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 7506.14 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 854, ISO 100
+Time: 7506.28 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 7514.24 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 855, ISO 100
+Time: 7514.48 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 7519.61 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 856, ISO 100
+Time: 7519.7 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 7524.89 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 857, ISO 100
+Time: 7524.98 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 7532.77 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 858, ISO 100
+Time: 7532.9 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 7538.16 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 859, ISO 100
+Time: 7538.26 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 7543.39 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 860, ISO 100
+Time: 7543.57 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 7651.8 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 861, ISO 100
+Time: 7651.94 minutes
+fan on, t=30.0C, humidity=58.0%
+ISO 800
+
+
+Time: 7657.07 minutes
+fan on, t=30.0C, humidity=58.0%
+Iteration 862, ISO 100
+Time: 7657.33 minutes
+fan on, t=30.0C, humidity=59.0%
+ISO 800
+
+
+Time: 7662.47 minutes
+fan on, t=30.0C, humidity=58.0%
+Iteration 863, ISO 100
+Time: 7662.56 minutes
+fan on, t=30.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 7670.52 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 864, ISO 100
+Time: 7670.77 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 7675.95 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 865, ISO 100
+Time: 7676.09 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 7681.23 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 866, ISO 100
+Time: 7681.36 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 8052.31 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 867, ISO 100
+Time: 8052.48 minutes
+fan on, t=30.0C, humidity=58.0%
+ISO 800
+
+
+Time: 8057.71 minutes
+fan on, t=30.0C, humidity=58.0%
+Iteration 868, ISO 100
+Time: 8057.81 minutes
+fan on, t=30.0C, humidity=58.0%
+ISO 800
+
+
+Time: 8062.94 minutes
+fan on, t=30.0C, humidity=58.0%
+Iteration 869, ISO 100
+Time: 8063.04 minutes
+fan on, t=30.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 8101.75 minutes
+fan on, t=30.0C, humidity=59.0%
+Iteration 870, ISO 100
+Time: 8101.87 minutes
+fan off, t=27.0C, humidity=61.0%
+ISO 800
+
+
+Time: 8107.0 minutes
+fan off, t=26.0C, humidity=62.0%
+Iteration 871, ISO 100
+Time: 8107.14 minutes
+fan off, t=27.0C, humidity=62.0%
+ISO 800
+
+
+Time: 8112.27 minutes
+fan off, t=27.0C, humidity=62.0%
+Iteration 872, ISO 100
+Time: 8112.4 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 8290.72 minutes
+fan on, t=30.0C, humidity=58.0%
+Iteration 873, ISO 100
+Time: 8290.92 minutes
+fan on, t=30.0C, humidity=58.0%
+ISO 800
+
+
+Time: 8296.14 minutes
+fan on, t=30.0C, humidity=58.0%
+Iteration 874, ISO 100
+Time: 8296.23 minutes
+fan on, t=30.0C, humidity=58.0%
+ISO 800
+
+
+Time: 8301.36 minutes
+fan on, t=30.0C, humidity=58.0%
+Iteration 875, ISO 100
+Time: 8301.45 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 8435.79 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 876, ISO 100
+Time: 8435.9 minutes
+fan off, t=26.0C, humidity=63.0%
+ISO 800
+
+
+Time: 8441.03 minutes
+fan off, t=26.0C, humidity=63.0%
+Iteration 877, ISO 100
+Time: 8441.21 minutes
+fan off, t=27.0C, humidity=63.0%
+ISO 800
+
+
+Time: 8446.38 minutes
+fan off, t=28.0C, humidity=63.0%
+Iteration 878, ISO 100
+Time: 8446.47 minutes
+fan off, t=28.0C, humidity=63.0%
+ISO 800
+
+
+Making GIF...
+Time: 8454.68 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 879, ISO 100
+Time: 8454.83 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 8460.04 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 880, ISO 100
+Time: 8460.17 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 8465.3 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 881, ISO 100
+Time: 8465.39 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 8473.29 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 882, ISO 100
+Time: 8473.39 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 8478.52 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 883, ISO 100
+Time: 8478.61 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 8483.73 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 884, ISO 100
+Time: 8483.92 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 8491.82 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 885, ISO 100
+Time: 8491.95 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 8497.29 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 886, ISO 100
+Time: 8497.39 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 8502.6 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 887, ISO 100
+Time: 8502.69 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 8510.47 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 888, ISO 100
+Time: 8510.57 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 8515.7 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 889, ISO 100
+Time: 8515.88 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 8521.05 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 890, ISO 100
+Time: 8521.14 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 8529.06 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 891, ISO 100
+Time: 8529.26 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 8534.52 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 892, ISO 100
+Time: 8534.66 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 8539.84 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 893, ISO 100
+Time: 8539.97 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 8548.02 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 894, ISO 100
+Time: 8548.17 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 8553.38 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 895, ISO 100
+Time: 8553.59 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 8558.72 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 896, ISO 100
+Time: 8558.81 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 8566.86 minutesKilled
+Killed
+Killed
+Killed
+
+fan off, t=28.0C, humidity=60.0%
+Iteration 897, ISO 100
+Time: 8567.03 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 8572.16 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 898, ISO 100
+Time: 8572.25 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 8577.42 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 899, ISO 100
+Time: 8577.6 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 8808.9 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 900, ISO 100
+Time: 8809.05 minutes
+fan off, t=26.0C, humidity=63.0%
+ISO 800
+
+
+Time: 8814.23 minutes
+fan off, t=26.0C, humidity=63.0%
+Iteration 901, ISO 100
+Time: 8814.37 minutes
+fan off, t=27.0C, humidity=63.0%
+ISO 800
+
+
+Time: 8819.58 minutes
+fan off, t=27.0C, humidity=63.0%
+Iteration 902, ISO 100
+Time: 8819.67 minutes
+fan off, t=27.0C, humidity=63.0%
+ISO 800
+
+
+Making GIF...
+Time: 8832.94 minutes
+fan off, t=27.0C, humidity=63.0%
+Iteration 903, ISO 100
+Time: 8833.19 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 8838.32 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 904, ISO 100
+Time: 8838.45 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 8843.58 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 905, ISO 100
+Time: 8843.67 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 8990.43 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 906, ISO 100
+Time: 8990.64 minutes
+fan off, t=26.0C, humidity=63.0%
+ISO 800
+
+
+Time: 8995.75 minutes
+fan off, t=26.0C, humidity=63.0%
+Iteration 907, ISO 100
+Time: 8995.93 minutes
+fan off, t=26.0C, humidity=64.0%
+ISO 800
+
+
+Time: 9001.05 minutes
+fan off, t=26.0C, humidity=64.0%
+Iteration 908, ISO 100
+Time: 9001.14 minutes
+fan off, t=27.0C, humidity=63.0%
+ISO 800
+
+
+Making GIF...
+Time: 9010.36 minutes
+fan off, t=27.0C, humidity=63.0%
+Iteration 909, ISO 100
+Time: 9010.5 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 9015.63 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 910, ISO 100
+Time: 9015.77 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 9020.89 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 911, ISO 100
+Time: 9021.02 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 9029.0 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 912, ISO 100
+Time: 9029.1 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Time: 9034.27 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 913, ISO 100
+Time: 9034.4 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 9039.53 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 914, ISO 100
+Time: 9039.66 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 9206.93 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 915, ISO 100
+Time: 9207.07 minutes
+fan on, t=30.0C, humidity=58.0%
+ISO 800
+
+
+Time: 9212.23 minutes
+fan on, t=30.0C, humidity=58.0%
+Iteration 916, ISO 100
+Time: 9212.36 minutes
+fan on, t=30.0C, humidity=58.0%
+ISO 800
+
+
+Time: 9217.49 minutes
+fan on, t=30.0C, humidity=58.0%
+Iteration 917, ISO 100
+Time: 9217.61 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 9499.28 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 918, ISO 100
+Time: 9499.5 minutes
+fan off, t=25.0C, humidity=63.0%
+ISO 800
+
+
+Time: 9504.68 minutes
+fan off, t=25.0C, humidity=64.0%
+Iteration 919, ISO 100
+Time: 9504.77 minutes
+fan off, t=25.0C, humidity=64.0%
+ISO 800
+
+
+Time: 9509.94 minutes
+fan off, t=25.0C, humidity=63.0%
+Iteration 920, ISO 100
+Time: 9510.07 minutes
+fan off, t=26.0C, humidity=63.0%
+ISO 800
+
+
+Making GIF...
+Time: 9517.89 minutes
+fan off, t=26.0C, humidity=63.0%
+Iteration 921, ISO 100
+Time: 9518.03 minutes
+fan off, t=27.0C, humidity=62.0%
+ISO 800
+
+
+Time: 9523.16 minutes
+fan off, t=26.0C, humidity=63.0%
+Iteration 922, ISO 100
+Time: 9523.29 minutes
+fan off, t=27.0C, humidity=61.0%
+ISO 800
+
+
+Time: 9528.48 minutes
+fan off, t=27.0C, humidity=61.0%
+Iteration 923, ISO 100
+Time: 9528.61 minutes
+fan off, t=27.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 9536.56 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 924, ISO 100
+Time: 9536.68 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 9541.82 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 925, ISO 100
+Time: 9541.91 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 9547.05 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 926, ISO 100
+Time: 9547.18 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 9555.18 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 927, ISO 100
+Time: 9555.29 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 9560.42 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 928, ISO 100
+Time: 9560.56 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Time: 9565.69 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 929, ISO 100
+Time: 9565.77 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 9573.64 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 930, ISO 100
+Time: 9573.76 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Time: 9578.9 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 931, ISO 100
+Time: 9579.04 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Time: 9584.21 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 932, ISO 100
+Time: 9584.3 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 9592.13 minutes
+fan off, t=27.0C, humidity=62.0%
+Iteration 933, ISO 100
+Time: 9592.23 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 9597.41 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 934, ISO 100
+Time: 9597.54 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 9602.75 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 935, ISO 100
+Time: 9602.88 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 9610.75 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 936, ISO 100
+Time: 9610.88 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 9616.01 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 937, ISO 100
+Time: 9616.1 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 9621.27 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 938, ISO 100
+Time: 9621.36 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 10247.16 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 939, ISO 100
+Time: 10247.35 minutes
+fan on, t=30.0C, humidity=59.0%
+ISO 800
+
+
+Time: 10252.53 minutes
+fan on, t=30.0C, humidity=58.0%
+Iteration 940, ISO 100
+Time: 10252.62 minutes
+fan on, t=30.0C, humidity=58.0%
+ISO 800
+
+
+Time: 10257.74 minutes
+fan on, t=30.0C, humidity=58.0%
+Iteration 941, ISO 100
+Time: 10257.83 minutes
+fan on, t=30.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 10267.27 minutes
+fan on, t=30.0C, humidity=59.0%
+Iteration 942, ISO 100
+Time: 10267.38 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 10272.51 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 943, ISO 100
+Time: 10272.64 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 10277.77 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 944, ISO 100
+Time: 10277.86 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 10310.33 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 945, ISO 100
+Time: 10310.48 minutes
+fan off, t=27.0C, humidity=61.0%
+ISO 800
+
+
+Time: 10315.66 minutes
+fan off, t=27.0C, humidity=62.0%
+Iteration 946, ISO 100
+Time: 10315.76 minutes
+fan off, t=27.0C, humidity=62.0%
+ISO 800
+
+
+Time: 10320.88 minutes
+fan off, t=27.0C, humidity=62.0%
+Iteration 947, ISO 100
+Time: 10320.97 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 10340.32 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 948, ISO 100
+Time: 10340.42 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 10345.63 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 949, ISO 100
+Time: 10345.76 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Time: 10350.89 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 950, ISO 100
+Time: 10351.07 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 10362.13 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 951, ISO 100
+Time: 10362.32 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 10367.45 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 952, ISO 100
+Time: 10367.58 minutes
+fan on, t=29.0C, humidity=58.0%Killed
+
+ISO 800
+
+
+Time: 10372.71 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 953, ISO 100
+Time: 10372.84 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 10413.9 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 954, ISO 100
+Time: 10414.0 minutes
+fan on, t=30.0C, humidity=59.0%
+ISO 800
+
+
+Time: 10419.2 minutes
+fan on, t=30.0C, humidity=59.0%
+Iteration 955, ISO 100
+Time: 10419.29 minutes
+fan on, t=30.0C, humidity=59.0%
+ISO 800
+
+
+Time: 10424.52 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 956, ISO 100
+Time: 10424.74 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 10434.78 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 957, ISO 100
+Time: 10434.92 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 10440.14 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 958, ISO 100
+Time: 10440.32 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 10445.5 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 959, ISO 100
+Time: 10445.63 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 10498.8 minutes
+fan on, t=30.0C, humidity=58.0%
+Iteration 960, ISO 100
+Time: 10498.9 minutes
+fan on, t=30.0C, humidity=58.0%
+ISO 800
+
+
+Time: 10504.06 minutes
+fan on, t=30.0C, humidity=59.0%
+Iteration 961, ISO 100
+Time: 10504.24 minutes
+fan on, t=30.0C, humidity=59.0%
+ISO 800
+
+
+Time: 10509.37 minutes
+fan on, t=30.0C, humidity=59.0%
+Iteration 962, ISO 100
+Time: 10509.46 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 10517.43 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 963, ISO 100
+Time: 10517.54 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 10522.75 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 964, ISO 100
+Time: 10522.88 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 10528.06 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 965, ISO 100
+Time: 10528.15 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 10536.53 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 966, ISO 100
+Time: 10536.68 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Time: 10541.94 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 967, ISO 100
+Time: 10542.12 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 10547.25 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 968, ISO 100
+Time: 10547.39 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 10555.21 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 969, ISO 100
+Time: 10555.45 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Time: 10560.67 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 970, ISO 100
+Time: 10560.75 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 10565.88 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 971, ISO 100
+Time: 10566.1 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 10580.62 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 972, ISO 100
+Time: 10580.82 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 10585.94 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 973, ISO 100
+Time: 10586.12 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 10591.25 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 974, ISO 100
+Time: 10591.38 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 10599.28 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 975, ISO 100
+Time: 10599.38 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 10604.63 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 976, ISO 100
+Time: 10604.72 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Time: 10609.85 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 977, ISO 100
+Time: 10609.94 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 10618.15 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 978, ISO 100
+Time: 10618.27 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 10623.4 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 979, ISO 100
+Time: 10623.5 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Time: 10628.64 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 980, ISO 100
+Time: 10628.73 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 10731.51 minutes
+fan on, t=30.0C, humidity=58.0%
+Iteration 981, ISO 100
+Time: 10731.62 minutes
+fan on, t=30.0C, humidity=58.0%
+ISO 800
+
+
+Time: 10736.79 minutes
+fan on, t=30.0C, humidity=59.0%
+Iteration 982, ISO 100
+Time: 10736.88 minutes
+fan on, t=30.0C, humidity=59.0%
+ISO 800
+
+
+Time: 10742.0 minutes
+fan on, t=30.0C, humidity=59.0%
+Iteration 983, ISO 100
+Time: 10742.14 minutes
+fan on, t=30.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 10759.23 minutes
+fan on, t=30.0C, humidity=60.0%
+Iteration 984, ISO 100
+Time: 10759.33 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 10764.46 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 985, ISO 100
+Time: 10764.59 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 10769.72 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 986, ISO 100
+Time: 10769.81 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 10807.88 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 987, ISO 100
+Time: 10808.03 minutes
+fan on, t=30.0C, humidity=59.0%
+ISO 800
+
+
+Time: 10813.15 minutes
+fan on, t=30.0C, humidity=59.0%
+Iteration 988, ISO 100
+Time: 10813.24 minutes
+fan on, t=30.0C, humidity=58.0%
+ISO 800
+
+
+Time: 10818.43 minutes
+fan on, t=30.0C, humidity=58.0%
+Iteration 989, ISO 100
+Time: 10818.52 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 10953.08 minutes
+fan on, t=30.0C, humidity=58.0%
+Iteration 990, ISO 100
+Time: 10953.3 minutes
+fan off, t=27.0C, humidity=62.0%
+ISO 800
+
+
+Time: 10958.42 minutes
+fan off, t=27.0C, humidity=62.0%
+Iteration 991, ISO 100
+Time: 10958.55 minutes
+fan off, t=27.0C, humidity=64.0%
+ISO 800
+
+
+Time: 10963.68 minutes
+fan off, t=27.0C, humidity=64.0%
+Iteration 992, ISO 100
+Time: 10963.81 minutes
+fan off, t=28.0C, humidity=63.0%
+ISO 800
+
+
+Making GIF...
+Time: 11483.45 minutes
+fan on, t=32.0C, humidity=58.0%
+Iteration 993, ISO 100
+Time: 11483.58 minutes
+fan on, t=32.0C, humidity=58.0%
+ISO 800
+
+
+Time: 11488.7 minutes
+fan on, t=32.0C, humidity=58.0%
+Iteration 994, ISO 100
+Time: 11488.83 minutes
+fan on, t=33.0C, humidity=56.0%
+ISO 800
+
+
+Time: 11493.96 minutes
+fan on, t=33.0C, humidity=57.0%
+Iteration 995, ISO 100
+Time: 11494.09 minutes
+fan on, t=31.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 11532.66 minutes
+fan on, t=31.0C, humidity=59.0%
+Iteration 996, ISO 100
+Time: 11532.81 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 11537.99 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 997, ISO 100
+Time: 11538.08 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 11543.35 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 998, ISO 100
+Time: 11543.48 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 11599.27 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 999, ISO 100
+Time: 11599.41 minutes
+fan off, t=28.0C, humidity=63.0%
+ISO 800
+
+
+Time: 11604.59 minutes
+fan off, t=28.0C, humidity=63.0%
+Iteration 1000, ISO 100
+Time: 11604.69 minutes
+fan off, t=28.0C, humidity=65.0%
+ISO 800
+
+
+Time: 11609.82 minutes
+fan on, t=29.0C, humidity=64.0%
+Iteration 1001, ISO 100
+Time: 11609.9 minutes
+fan on, t=29.0C, humidity=63.0%
+ISO 800
+
+
+Making GIF...
+Time: 11617.76 minutes
+fan on, t=29.0C, humidity=63.0%
+Iteration 1002, ISO 100
+Time: 11617.86 minutes
+fan on, t=30.0C, humidity=61.0%
+ISO 800
+
+
+Time: 11623.08 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 1003, ISO 100
+Time: 11623.21 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 11628.38 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 1004, ISO 100
+Time: 11628.51 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 11648.04 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 1005, ISO 100
+Time: 11648.18 minutes
+fan off, t=28.0C, humidity=63.0%
+ISO 800
+
+
+Time: 11653.35 minutes
+fan on, t=29.0C, humidity=63.0%
+Iteration 1006, ISO 100
+Time: 11653.52 minutes
+fan on, t=29.0C, humidity=63.0%
+ISO 800
+
+
+Time: 11658.69 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 1007, ISO 100
+Time: 11658.82 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 11666.79 minutesKilled
+Killed
+Killed
+
+fan on, t=29.0C, humidity=61.0%
+Iteration 1008, ISO 100
+Time: 11666.9 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 11672.03 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 1009, ISO 100
+Time: 11672.11 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 11677.36 minutes
+fan off, t=28.0C, humidity=63.0%
+Iteration 1010, ISO 100
+Time: 11677.49 minutes
+fan off, t=28.0C, humidity=63.0%
+ISO 800
+
+
+Making GIF...
+Time: 11685.58 minutes
+fan on, t=29.0C, humidity=63.0%
+Iteration 1011, ISO 100
+Time: 11685.91 minutes
+fan on, t=29.0C, humidity=62.0%
+ISO 800
+
+
+Time: 11691.04 minutes
+fan on, t=29.0C, humidity=62.0%
+Iteration 1012, ISO 100
+Time: 11691.13 minutes
+fan on, t=30.0C, humidity=60.0%
+ISO 800
+
+
+Time: 11696.26 minutes
+fan on, t=30.0C, humidity=60.0%
+Iteration 1013, ISO 100
+Time: 11696.35 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 11704.19 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 1014, ISO 100
+Time: 11704.33 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 11709.5 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 1015, ISO 100
+Time: 11709.63 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 11714.76 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 1016, ISO 100
+Time: 11714.98 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 11872.52 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 1017, ISO 100
+Time: 11872.64 minutes
+fan off, t=28.0C, humidity=63.0%
+ISO 800
+
+
+Time: 11877.76 minutes
+fan off, t=28.0C, humidity=63.0%
+Iteration 1018, ISO 100
+Time: 11877.85 minutes
+fan off, t=28.0C, humidity=65.0%
+ISO 800
+
+
+Time: 11882.98 minutes
+fan off, t=28.0C, humidity=65.0%
+Iteration 1019, ISO 100
+Time: 11883.07 minutes
+fan on, t=29.0C, humidity=63.0%
+ISO 800
+
+
+Making GIF...
+Time: 12146.44 minutes
+fan off, t=27.0C, humidity=63.0%
+Iteration 1020, ISO 100
+Time: 12146.53 minutes
+fan off, t=28.0C, humidity=63.0%
+ISO 800
+
+
+Time: 12151.74 minutes
+fan off, t=28.0C, humidity=64.0%
+Iteration 1021, ISO 100
+Time: 12151.88 minutes
+fan off, t=28.0C, humidity=64.0%
+ISO 800
+
+
+Time: 12157.05 minutes
+fan off, t=28.0C, humidity=64.0%
+Iteration 1022, ISO 100
+Time: 12157.14 minutes
+fan off, t=28.0C, humidity=64.0%
+ISO 800
+
+
+Making GIF...
+Time: 12216.6 minutes
+fan on, t=30.0C, humidity=59.0%
+Iteration 1023, ISO 100
+Time: 12216.7 minutes
+fan on, t=30.0C, humidity=59.0%
+ISO 800
+
+
+Time: 12221.82 minutes
+fan on, t=30.0C, humidity=59.0%
+Iteration 1024, ISO 100
+Time: 12222.0 minutes
+fan on, t=31.0C, humidity=57.0%
+ISO 800
+
+
+Time: 12227.12 minutes
+fan on, t=30.0C, humidity=58.0%
+Iteration 1025, ISO 100
+Time: 12227.21 minutes
+fan on, t=30.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 12316.13 minutes
+fan on, t=30.0C, humidity=58.0%
+Iteration 1026, ISO 100
+Time: 12316.31 minutes
+fan off, t=27.0C, humidity=62.0%
+ISO 800
+
+
+Time: 12321.43 minutes
+fan off, t=28.0C, humidity=64.0%
+Iteration 1027, ISO 100
+Time: 12321.65 minutes
+fan off, t=28.0C, humidity=64.0%
+ISO 800
+
+
+Time: 12326.78 minutes
+fan off, t=28.0C, humidity=63.0%
+Iteration 1028, ISO 100
+Time: 12326.87 minutes
+fan off, t=28.0C, humidity=63.0%
+ISO 800
+
+
+Making GIF...
+Time: 12448.53 minutes
+fan off, t=28.0C, humidity=63.0%
+Iteration 1029, ISO 100
+Time: 12448.68 minutes
+fan on, t=31.0C, humidity=58.0%
+ISO 800
+
+
+Time: 12453.81 minutes
+fan on, t=31.0C, humidity=58.0%
+Iteration 1030, ISO 100
+Time: 12453.89 minutes
+fan on, t=32.0C, humidity=56.0%
+ISO 800
+
+
+Time: 12459.07 minutes
+fan on, t=30.0C, humidity=58.0%
+Iteration 1031, ISO 100
+Time: 12459.15 minutes
+fan on, t=30.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 12681.43 minutes
+fan on, t=30.0C, humidity=58.0%
+Iteration 1032, ISO 100
+Time: 12681.54 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 12686.75 minutes
+fan off, t=28.0C, humidity=64.0%
+Iteration 1033, ISO 100
+Time: 12686.84 minutes
+fan off, t=28.0C, humidity=64.0%
+ISO 800
+
+
+Time: 12692.01 minutes
+fan off, t=28.0C, humidity=63.0%
+Iteration 1034, ISO 100
+Time: 12692.18 minutes
+fan off, t=28.0C, humidity=63.0%
+ISO 800
+
+
+Making GIF...
+Time: 12710.49 minutes
+fan on, t=30.0C, humidity=61.0%
+Iteration 1035, ISO 100
+Time: 12710.59 minutes
+fan on, t=30.0C, humidity=61.0%
+ISO 800
+
+
+Time: 12715.72 minutes
+fan on, t=30.0C, humidity=61.0%
+Iteration 1036, ISO 100
+Time: 12715.81 minutes
+fan on, t=30.0C, humidity=59.0%
+ISO 800
+
+
+Time: 12720.94 minutes
+fan on, t=30.0C, humidity=59.0%
+Iteration 1037, ISO 100
+Time: 12721.06 minutes
+fan on, t=30.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 13146.52 minutes
+fan on, t=30.0C, humidity=59.0%
+Iteration 1038, ISO 100
+Time: 13146.77 minutes
+fan off, t=27.0C, humidity=62.0%
+ISO 800
+
+
+Time: 13151.9 minutes
+fan off, t=27.0C, humidity=62.0%
+Iteration 1039, ISO 100
+Time: 13151.99 minutes
+fan off, t=27.0C, humidity=63.0%
+ISO 800
+
+
+Time: 13157.12 minutes
+fan off, t=27.0C, humidity=63.0%
+Iteration 1040, ISO 100
+Time: 13157.33 minutes
+fan off, t=28.0C, humidity=63.0%
+ISO 800
+
+
+Making GIF...
+Time: 13165.34 minutes
+fan off, t=28.0C, humidity=63.0%
+Iteration 1041, ISO 100
+Time: 13165.48 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 13170.6 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 1042, ISO 100
+Time: 13170.69 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 13175.82 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 1043, ISO 100
+Time: 13176.04 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 13183.82 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 1044, ISO 100
+Time: 13183.92 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 13189.05 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 1045, ISO 100
+Time: 13189.18 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 13194.39 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 1046, ISO 100
+Time: 13194.53 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 13202.58 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 1047, ISO 100
+Time: 13202.68 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 13207.81 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 1048, ISO 100
+Time: 13207.89 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 13213.02 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 1049, ISO 100
+Time: 13213.15 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 13221.01 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 1050, ISO 100
+Time: 13221.16 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 13226.32 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 1051, ISO 100
+Time: 13226.42 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Time: 13231.59 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 1052, ISO 100
+Time: 13231.76 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 13239.76 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 1053, ISO 100
+Time: 13239.91 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 13245.08 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 1054, ISO 100
+Time: 13245.25 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 13250.51 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 1055, ISO 100
+Time: 13250.6 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 13265.71 minutes
+fan off, t=27.0C, humidity=60.0%
+Iteration 1056, ISO 100
+Time: 13265.87 minutes
+fan off, t=27.0C, humidity=60.0%
+ISO 800
+
+
+Time: 13270.99 minutes
+fan off, t=27.0C, humidity=60.0%
+Iteration 1057, ISO 100
+Time: 13271.08 minutes
+fan off, t=27.0C, humidity=62.0%
+ISO 800
+
+
+Time: 13276.29 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 1058, ISO 100
+Time: 13276.43 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 13289.2 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 1059, ISO 100
+Time: 13289.29 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 13294.43 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 1060, ISO 100
+Time: 13294.57 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Time: 13299.74 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 1061, ISO 100
+Time: 13299.83 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 13542.99 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 1062, ISO 100
+Time: 13543.17 minutes
+fan on, t=30.0C, humidity=59.0%
+ISO 800
+
+Killed
+Killed
+Killed
+Killed
+Killed
+Killed
+
+Time: 13548.28 minutes
+fan on, t=30.0C, humidity=59.0%
+Iteration 1063, ISO 100
+Time: 13548.46 minutes
+fan on, t=30.0C, humidity=58.0%
+ISO 800
+
+
+Time: 13553.63 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 1064, ISO 100
+Time: 13553.84 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 13869.8 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 1065, ISO 100
+Time: 13869.96 minutes
+fan off, t=25.0C, humidity=63.0%
+ISO 800
+
+
+Time: 13875.15 minutes
+fan off, t=25.0C, humidity=63.0%
+Iteration 1066, ISO 100
+Time: 13875.24 minutes
+fan off, t=26.0C, humidity=63.0%
+ISO 800
+
+
+Time: 13880.37 minutes
+fan off, t=26.0C, humidity=63.0%
+Iteration 1067, ISO 100
+Time: 13880.46 minutes
+fan off, t=27.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 13947.22 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 1068, ISO 100
+Time: 13947.39 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Time: 13952.52 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 1069, ISO 100
+Time: 13952.69 minutes
+fan on, t=30.0C, humidity=58.0%
+ISO 800
+
+
+Time: 13957.82 minutes
+fan on, t=30.0C, humidity=58.0%
+Iteration 1070, ISO 100
+Time: 13957.91 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 13997.63 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 1071, ISO 100
+Time: 13997.81 minutes
+fan off, t=26.0C, humidity=62.0%
+ISO 800
+
+
+Time: 14002.98 minutes
+fan off, t=26.0C, humidity=63.0%
+Iteration 1072, ISO 100
+Time: 14003.07 minutes
+fan off, t=26.0C, humidity=63.0%
+ISO 800
+
+
+Time: 14008.2 minutes
+fan off, t=26.0C, humidity=63.0%
+Iteration 1073, ISO 100
+Time: 14008.29 minutes
+fan off, t=27.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 14481.57 minutes
+fan off, t=27.0C, humidity=62.0%
+Iteration 1074, ISO 100
+Time: 14481.76 minutes
+fan on, t=30.0C, humidity=58.0%
+ISO 800
+
+
+Time: 14486.87 minutes
+fan on, t=31.0C, humidity=57.0%
+Iteration 1075, ISO 100
+Time: 14487.0 minutes
+fan on, t=31.0C, humidity=57.0%
+ISO 800
+
+
+Time: 14492.17 minutes
+fan on, t=30.0C, humidity=59.0%
+Iteration 1076, ISO 100
+Time: 14492.31 minutes
+fan on, t=30.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 14504.69 minutes
+fan on, t=30.0C, humidity=59.0%
+Iteration 1077, ISO 100
+Time: 14504.82 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 14509.94 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 1078, ISO 100
+Time: 14510.07 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 14515.2 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 1079, ISO 100
+Time: 14515.33 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 14525.69 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 1080, ISO 100
+Time: 14525.79 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 14530.92 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 1081, ISO 100
+Time: 14531.05 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 14536.18 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 1082, ISO 100
+Time: 14536.32 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 14544.09 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 1083, ISO 100
+Time: 14544.33 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 14549.47 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 1084, ISO 100
+Time: 14549.6 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Time: 14554.73 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 1085, ISO 100
+Time: 14554.86 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 14562.75 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 1086, ISO 100
+Time: 14562.9 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 14568.03 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 1087, ISO 100
+Time: 14568.12 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 14573.28 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 1088, ISO 100
+Time: 14573.5 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 14581.55 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 1089, ISO 100
+Time: 14581.7 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 14586.87 minutes
+fan on, t=30.0C, humidity=58.0%
+Iteration 1090, ISO 100
+Time: 14587.0 minutes
+fan on, t=30.0C, humidity=58.0%
+ISO 800
+
+
+Time: 14592.21 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 1091, ISO 100
+Time: 14592.3 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 14600.2 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 1092, ISO 100
+Time: 14600.33 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 14605.5 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 1093, ISO 100
+Time: 14605.68 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 14610.85 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 1094, ISO 100
+Time: 14610.94 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 14619.58 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 1095, ISO 100
+Time: 14619.71 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 14624.84 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 1096, ISO 100
+Time: 14624.97 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 14630.18 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 1097, ISO 100
+Time: 14630.31 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 14850.37 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 1098, ISO 100
+Time: 14850.58 minutes
+fan off, t=26.0C, humidity=63.0%
+ISO 800
+
+
+Time: 14855.75 minutes
+fan off, t=26.0C, humidity=63.0%
+Iteration 1099, ISO 100
+Time: 14856.01 minutes
+fan off, t=27.0C, humidity=63.0%
+ISO 800
+
+
+Time: 14861.13 minutes
+fan off, t=27.0C, humidity=62.0%
+Iteration 1100, ISO 100
+Time: 14861.27 minutes
+fan off, t=27.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 14880.67 minutes
+fan off, t=27.0C, humidity=62.0%
+Iteration 1101, ISO 100
+Time: 14880.82 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 14886.15 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 1102, ISO 100
+Time: 14886.28 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Time: 14891.41 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 1103, ISO 100
+Time: 14891.5 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 14983.11 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 1104, ISO 100
+Time: 14983.3 minutes
+fan on, t=30.0C, humidity=58.0%
+ISO 800
+
+
+Time: 14988.43 minutes
+fan on, t=30.0C, humidity=58.0%
+Iteration 1105, ISO 100
+Time: 14988.6 minutes
+fan on, t=30.0C, humidity=58.0%
+ISO 800
+
+
+Time: 14993.73 minutes
+fan on, t=30.0C, humidity=58.0%
+Iteration 1106, ISO 100
+Time: 14993.86 minutes
+fan on, t=30.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 15321.24 minutes
+fan on, t=30.0C, humidity=59.0%
+Iteration 1107, ISO 100
+Time: 15321.45 minutes
+fan off, t=27.0C, humidity=62.0%
+ISO 800
+
+
+Time: 15326.58 minutes
+fan off, t=26.0C, humidity=63.0%
+Iteration 1108, ISO 100
+Time: 15326.67 minutes
+fan off, t=27.0C, humidity=63.0%
+ISO 800
+
+
+Time: 15331.84 minutes
+fan off, t=28.0C, humidity=63.0%
+Iteration 1109, ISO 100
+Time: 15332.01 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 16627.6 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 1110, ISO 100
+Time: 16627.82 minutes
+fan on, t=30.0C, humidity=59.0%
+ISO 800
+
+
+Time: 16633.03 minutes
+fan on, t=30.0C, humidity=57.0%
+Iteration 1111, ISO 100
+Time: 16633.12 minutes
+fan on, t=30.0C, humidity=57.0%
+ISO 800
+
+
+Time: 16638.29 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 1112, ISO 100
+Time: 16638.38 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 16840.77 minutes
+fan off, t=25.0C, humidity=62.0%
+Iteration 1113, ISO 100
+Time: 16840.91 minutes
+fan off, t=25.0C, humidity=62.0%
+ISO 800
+
+
+Time: 16846.06 minutes
+fan off, t=25.0C, humidity=63.0%
+Iteration 1114, ISO 100
+Time: 16846.2 minutes
+fan off, t=26.0C, humidity=63.0%
+ISO 800
+
+
+Time: 16851.49 minutes
+fan off, t=26.0C, humidity=63.0%
+Iteration 1115, ISO 100
+Time: 16851.67 minutes
+fan off, t=26.0C, humidity=63.0%
+ISO 800
+
+
+Making GIF...
+Time: 17150.75 minutes
+fan off, t=27.0C, humidity=62.0%
+Iteration 1116, ISO 100
+Time: 17150.85 minutes
+fan on, t=32.0C, humidity=57.0%
+ISO 800
+
+
+Time: 17155.97 minutes
+fan on, t=32.0C, humidity=57.0%
+Iteration 1117, ISO 100
+Time: 17156.06 minutes
+fan on, t=32.0C, humidity=58.0%Killed
+
+ISO 800
+
+
+Time: 17161.32 minutes
+fan on, t=30.0C, humidity=60.0%
+Iteration 1118, ISO 100
+Time: 17161.4 minutes
+fan on, t=30.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 17242.7 minutes
+fan on, t=30.0C, humidity=60.0%
+Iteration 1119, ISO 100
+Time: 17242.82 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 17247.95 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 1120, ISO 100
+Time: 17248.08 minutes
+fan off, t=28.0C, humidity=63.0%
+ISO 800
+
+
+Time: 17253.3 minutes
+fan on, t=29.0C, humidity=62.0%
+Iteration 1121, ISO 100
+Time: 17253.44 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 17261.42 minutes
+fan on, t=29.0C, humidity=62.0%
+Iteration 1122, ISO 100
+Time: 17261.53 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 17266.66 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 1123, ISO 100
+Time: 17266.8 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 17271.97 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 1124, ISO 100
+Time: 17272.15 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 17280.14 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 1125, ISO 100
+Time: 17280.3 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 17285.43 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 1126, ISO 100
+Time: 17285.55 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 17290.68 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 1127, ISO 100
+Time: 17290.81 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 17298.61 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 1128, ISO 100
+Time: 17298.81 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 17304.02 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 1129, ISO 100
+Time: 17304.19 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 17309.36 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 1130, ISO 100
+Time: 17309.45 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 17318.77 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 1131, ISO 100
+Time: 17318.87 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 17324.05 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 1132, ISO 100
+Time: 17324.14 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 17329.27 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 1133, ISO 100
+Time: 17329.36 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 17341.01 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 1134, ISO 100
+Time: 17341.13 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 17346.25 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 1135, ISO 100
+Time: 17346.34 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 17351.47 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 1136, ISO 100
+Time: 17351.56 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 17466.61 minutes
+fan off, t=27.0C, humidity=62.0%
+Iteration 1137, ISO 100
+Time: 17466.76 minutes
+fan off, t=27.0C, humidity=62.0%
+ISO 800
+
+
+Time: 17471.97 minutes
+fan off, t=28.0C, humidity=63.0%
+Iteration 1138, ISO 100
+Time: 17472.06 minutes
+fan off, t=28.0C, humidity=63.0%
+ISO 800
+
+
+Time: 17477.27 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 1139, ISO 100
+Time: 17477.36 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 17705.37 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 1140, ISO 100
+Time: 17705.53 minutes
+fan on, t=30.0C, humidity=58.0%
+ISO 800
+
+
+Time: 17710.65 minutes
+fan on, t=30.0C, humidity=58.0%
+Iteration 1141, ISO 100
+Time: 17710.82 minutes
+fan on, t=31.0C, humidity=57.0%
+ISO 800
+
+
+Time: 17715.95 minutes
+fan on, t=31.0C, humidity=57.0%
+Iteration 1142, ISO 100
+Time: 17716.04 minutes
+fan on, t=30.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 17736.26 minutes
+fan on, t=30.0C, humidity=59.0%
+Iteration 1143, ISO 100
+Time: 17736.4 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 17741.53 minutes
+fan off, t=27.0C, humidity=60.0%
+Iteration 1144, ISO 100
+Time: 17741.71 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 17746.84 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 1145, ISO 100
+Time: 17746.97 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 17766.87 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 1146, ISO 100
+Time: 17767.1 minutes
+fan on, t=30.0C, humidity=59.0%
+ISO 800
+
+
+Time: 17772.22 minutes
+fan on, t=30.0C, humidity=59.0%
+Iteration 1147, ISO 100
+Time: 17772.31 minutes
+fan on, t=30.0C, humidity=57.0%
+ISO 800
+
+
+Time: 17777.44 minutes
+fan on, t=30.0C, humidity=57.0%
+Iteration 1148, ISO 100
+Time: 17777.62 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 17929.89 minutes
+fan off, t=26.0C, humidity=63.0%
+Iteration 1149, ISO 100
+Time: 17929.99 minutes
+fan off, t=26.0C, humidity=63.0%
+ISO 800
+
+
+Time: 17935.12 minutes
+fan off, t=26.0C, humidity=63.0%
+Iteration 1150, ISO 100
+Time: 17935.21 minutes
+fan off, t=27.0C, humidity=63.0%
+ISO 800
+
+
+Time: 17940.38 minutes
+fan off, t=27.0C, humidity=62.0%
+Iteration 1151, ISO 100
+Time: 17940.47 minutes
+fan off, t=27.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 17962.93 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 1152, ISO 100
+Time: 17963.02 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 17968.15 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 1153, ISO 100
+Time: 17968.28 minutes
+fan on, t=30.0C, humidity=58.0%
+ISO 800
+
+
+Time: 17973.46 minutes
+fan on, t=30.0C, humidity=58.0%
+Iteration 1154, ISO 100
+Time: 17973.55 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 17988.87 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 1155, ISO 100
+Time: 17988.98 minutes
+fan off, t=27.0C, humidity=61.0%
+ISO 800
+
+
+Time: 17994.15 minutes
+fan off, t=27.0C, humidity=62.0%
+Iteration 1156, ISO 100
+Time: 17994.28 minutes
+fan off, t=27.0C, humidity=62.0%
+ISO 800
+
+
+Time: 17999.45 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 1157, ISO 100
+Time: 17999.58 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 18019.97 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 1158, ISO 100
+Time: 18020.11 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Time: 18025.23 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 1159, ISO 100
+Time: 18025.37 minutes
+fan on, t=30.0C, humidity=58.0%
+ISO 800
+
+
+Time: 18030.5 minutes
+fan on, t=30.0C, humidity=58.0%
+Iteration 1160, ISO 100
+Time: 18030.63 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Making GIF...
+Time: 18038.56 minutes
+fan on, t=29.0C, humidity=58.0%
+Iteration 1161, ISO 100
+Time: 18038.7 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 18043.87 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 1162, ISO 100
+Time: 18043.96 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 18049.09 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 1163, ISO 100
+Time: 18049.18 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 18280.06 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 1164, ISO 100
+Time: 18280.21 minutes
+fan on, t=30.0C, humidity=57.0%
+ISO 800
+
+
+Time: 18285.38 minutes
+fan on, t=30.0C, humidity=57.0%
+Iteration 1165, ISO 100
+Time: 18285.46 minutes
+fan on, t=30.0C, humidity=58.0%
+ISO 800
+
+
+Time: 18290.59 minutes
+fan on, t=30.0C, humidity=58.0%
+Iteration 1166, ISO 100
+Time: 18290.68 minutes
+fan on, t=30.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 18298.6 minutes
+fan on, t=30.0C, humidity=59.0%
+Iteration 1167, ISO 100
+Time: 18298.74 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 18303.87 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 1168, ISO 100
+Time: 18304.0 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 18309.17 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 1169, ISO 100
+Time: 18309.3 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 18440.93 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 1170, ISO 100
+Time: 18441.08 minutes
+fan off, t=27.0C, humidity=62.0%
+ISO 800
+
+
+Time: 18446.29 minutes
+fan off, t=27.0C, humidity=63.0%
+Iteration 1171, ISO 100
+Time: 18446.38 minutes
+fan off, t=27.0C, humidity=63.0%
+ISO 800
+
+
+Time: 18451.5 minutes
+fan off, t=27.0C, humidity=63.0%
+Iteration 1172, ISO 100
+Time: 18451.59 minutes
+fan off, t=28.0C, humidity=62.0%Killed
+
+ISO 800
+
+
+Making GIF...
+Time: 18604.64 minutes
+fan on, t=32.0C, humidity=57.0%
+Iteration 1173, ISO 100
+Time: 18604.78 minutes
+fan on, t=32.0C, humidity=57.0%
+ISO 800
+
+
+Time: 18609.89 minutes
+fan on, t=32.0C, humidity=57.0%
+Iteration 1174, ISO 100
+Time: 18610.07 minutes
+fan on, t=32.0C, humidity=57.0%
+ISO 800
+
+
+Time: 18615.19 minutes
+fan on, t=32.0C, humidity=58.0%
+Iteration 1175, ISO 100
+Time: 18615.28 minutes
+fan on, t=30.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 18688.33 minutes
+fan on, t=30.0C, humidity=60.0%
+Iteration 1176, ISO 100
+Time: 18688.44 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 18693.56 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 1177, ISO 100
+Time: 18693.7 minutes
+fan off, t=28.0C, humidity=63.0%
+ISO 800
+
+
+Time: 18698.91 minutes
+fan on, t=29.0C, humidity=62.0%
+Iteration 1178, ISO 100
+Time: 18699.04 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 18714.11 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 1179, ISO 100
+Time: 18714.3 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 18719.42 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 1180, ISO 100
+Time: 18719.51 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 18724.64 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 1181, ISO 100
+Time: 18724.78 minutes
+fan off, t=28.0C, humidity=63.0%
+ISO 800
+
+
+Making GIF...
+Time: 18873.46 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 1182, ISO 100
+Time: 18873.56 minutes
+fan on, t=32.0C, humidity=57.0%
+ISO 800
+
+
+Time: 18878.69 minutes
+fan on, t=32.0C, humidity=57.0%
+Iteration 1183, ISO 100
+Time: 18878.82 minutes
+fan on, t=32.0C, humidity=58.0%
+ISO 800
+
+
+Time: 18884.03 minutes
+fan on, t=30.0C, humidity=59.0%
+Iteration 1184, ISO 100
+Time: 18884.12 minutes
+fan on, t=30.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 18919.37 minutes
+fan on, t=30.0C, humidity=60.0%
+Iteration 1185, ISO 100
+Time: 18919.53 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 18924.65 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 1186, ISO 100
+Time: 18924.74 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 18929.95 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 1187, ISO 100
+Time: 18930.08 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 18944.63 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 1188, ISO 100
+Time: 18944.72 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 18949.85 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 1189, ISO 100
+Time: 18950.03 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 18955.15 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 1190, ISO 100
+Time: 18955.25 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 18986.05 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 1191, ISO 100
+Time: 18986.15 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 18991.28 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 1192, ISO 100
+Time: 18991.41 minutes
+fan off, t=28.0C, humidity=63.0%
+ISO 800
+
+
+Time: 18996.54 minutes
+fan off, t=28.0C, humidity=63.0%
+Iteration 1193, ISO 100
+Time: 18996.67 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 19022.37 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 1194, ISO 100
+Time: 19022.47 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 19027.64 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 1195, ISO 100
+Time: 19027.73 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 19032.95 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 1196, ISO 100
+Time: 19033.08 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 19377.59 minutes
+fan off, t=27.0C, humidity=62.0%
+Iteration 1197, ISO 100
+Time: 19377.86 minutes
+fan off, t=27.0C, humidity=62.0%
+ISO 800
+
+
+Time: 19383.04 minutes
+fan off, t=27.0C, humidity=62.0%
+Iteration 1198, ISO 100
+Time: 19383.17 minutes
+fan off, t=27.0C, humidity=63.0%
+ISO 800
+
+
+Time: 19388.3 minutes
+fan off, t=27.0C, humidity=63.0%
+Iteration 1199, ISO 100
+Time: 19388.39 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Making GIF...
+Time: 19400.68 minutes
+fan on, t=29.0C, humidity=61.0%
+Iteration 1200, ISO 100
+Time: 19400.83 minutes
+fan on, t=29.0C, humidity=61.0%
+ISO 800
+
+
+Time: 19405.96 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 1201, ISO 100
+Time: 19406.05 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Time: 19411.22 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 1202, ISO 100
+Time: 19411.36 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 19557.77 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 1203, ISO 100
+Time: 19558.03 minutes
+fan on, t=30.0C, humidity=58.0%
+ISO 800
+
+
+Time: 19563.2 minutes
+fan on, t=30.0C, humidity=58.0%
+Iteration 1204, ISO 100
+Time: 19563.33 minutes
+fan on, t=30.0C, humidity=58.0%
+ISO 800
+
+
+Time: 19568.5 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 1205, ISO 100
+Time: 19568.59 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 19576.52 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 1206, ISO 100
+Time: 19576.65 minutes
+fan off, t=28.0C, humidity=62.0%
+ISO 800
+
+
+Time: 19581.78 minutes
+fan off, t=28.0C, humidity=62.0%
+Iteration 1207, ISO 100
+Time: 19581.91 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 19587.03 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 1208, ISO 100
+Time: 19587.17 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 19594.96 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 1209, ISO 100
+Time: 19595.16 minutes
+fan off, t=28.0C, humidity=59.0%
+ISO 800
+
+
+Time: 19600.29 minutes
+fan off, t=28.0C, humidity=59.0%
+Iteration 1210, ISO 100
+Time: 19600.38 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 19605.51 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 1211, ISO 100
+Time: 19605.6 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 19632.76 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 1212, ISO 100
+Time: 19632.87 minutes
+fan on, t=29.0C, humidity=58.0%
+ISO 800
+
+
+Time: 19638.0 minutes
+fan on, t=30.0C, humidity=58.0%
+Iteration 1213, ISO 100
+Time: 19638.13 minutes
+fan on, t=30.0C, humidity=58.0%
+ISO 800
+
+
+Time: 19643.26 minutes
+fan on, t=30.0C, humidity=58.0%
+Iteration 1214, ISO 100
+Time: 19643.39 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 19651.82 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 1215, ISO 100
+Time: 19652.01 minutes
+fan off, t=27.0C, humidity=62.0%
+ISO 800
+
+
+Time: 19657.36 minutes
+fan off, t=27.0C, humidity=60.0%
+Iteration 1216, ISO 100
+Time: 19657.58 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Time: 19662.71 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 1217, ISO 100
+Time: 19662.8 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 19712.02 minutes
+fan off, t=28.0C, humidity=60.0%
+Iteration 1218, ISO 100
+Time: 19712.12 minutes
+fan on, t=30.0C, humidity=58.0%
+ISO 800
+
+
+Time: 19717.25 minutes
+fan on, t=30.0C, humidity=58.0%
+Iteration 1219, ISO 100
+Time: 19717.34 minutes
+fan on, t=30.0C, humidity=58.0%
+ISO 800
+
+
+Time: 19722.52 minutes
+fan on, t=30.0C, humidity=58.0%
+Iteration 1220, ISO 100
+Time: 19722.7 minutes
+fan off, t=28.0C, humidity=60.0%
+ISO 800
+
+
+Making GIF...
+Time: 19731.08 minutes
+fan off, t=28.0C, humidity=61.0%
+Iteration 1221, ISO 100
+Time: 19731.26 minutes
+fan off, t=28.0C, humidity=61.0%
+ISO 800
+
+
+Time: 19736.64 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 1222, ISO 100
+Time: 19736.73 minutes
+fan on, t=29.0C, humidity=60.0%
+ISO 800
+
+
+Time: 19741.86 minutes
+fan on, t=29.0C, humidity=60.0%
+Iteration 1223, ISO 100
+Time: 19741.95 minutes
+fan on, t=29.0C, humidity=59.0%
+ISO 800
+
+
+Making GIF...
+Time: 19768.32 minutes
+fan on, t=29.0C, humidity=59.0%
+Iteration 1224, ISO 100
+Time: 19768.41 minutes
+fan off, t=26.0C, humidity=61.0%
+ISO 800
+
+
+Time: 19773.54 minutes
+fan off, t=26.0C, humidity=61.0%
+Iteration 1225, ISO 100
+Time: 19773.72 minutes
+fan off, t=26.0C, humidity=62.0%
+ISO 800
+
+
+Time: 19778.85 minutes
+fan off, t=26.0C, humidity=62.0%
+Iteration 1226, ISO 100
+Time: 19779.02 minutes
+fan off, t=27.0C, humidity=61.0%
+ISO 800
+
+
+Making GIF...
+Time: 19787.19 minutes
+fan off, t=27.0C, humidity=61.0%
+Iteration 1227, ISO 100
+Time: 19787.3 minutes
