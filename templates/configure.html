@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<head>
+ <title>{{ title }}</title>
+ <link rel="stylesheet" href="../static/style.css" />
+</head>
+<body>
+  {% if RunProtocol == 1 %}
+  <h2>Warning: There is already a protocol running, started on {{ datestart }} at {{ timestart }}</h2>
+  <a href="/view" class="button">View Live Data</a>
+  Process can be ended in Live View
+  {% else %}
+ <h1>Configure settings  and run protocol</h1><br>
+        <h3>
+            <form action="/confirm" method="post">
+                <label for="BlueTime">Blue Light Duration (in minutes):</label><br>
+                <input type="number" id="BlueTime" name="BlueTime"><br>
+                <label for="GreenTime">Green Light Duration (in seconds; default 2s):</label><br>
+                <input type="number" id="GreenTime" name="GreenTime"><br>
+                <label for="Duration">Duration (in days; set to 0 for open-ended run)</label><br>
+                <input type="number" id="Duration" name="Duration"><br>
+                <label for="SetTemp">Set Temperature</label><br>
+                <input type="number" id="SetTemp" name="SetTemp"><br>
+                <input type="submit" value="Start Protocol" class="button">
+        </h3>
+        <br>
+{% endif %}
+<a href="/" class="button">Return Home</a>
+<br>
+<b>Status</b><br>
+Temperature: {{ temp }}<br>
+Humidity: {{ hum }}<br>
+Date: {{ date }}<br>
+Time: {{ time }}
+</body>
+</html>

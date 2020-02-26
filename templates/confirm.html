@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<head>
+ <title>{{ title }}</title>
+ <link rel="stylesheet" href="../static/style.css" />
+</head>
+<body>
+ <h1>Protocol will start in a minute or so</h1><br>
+  <a href="/view" class="button">View Live Data</a>
+<b>Status</b><br>
+Temperature: {{ temp }}<br>
+Humidity: {{ hum }}<br>
+Date: {{ date }}<br>
+Time: {{ time }}<br>
+<b><h2>Settings</h2></b>
+Blue Light Duration: {{ BlueTime }} minutes<br>
+Green Light Duration: {{ GreenTime }} seconds<br>
+{% if Duration == 0 %}
+Open Ended Experiment<br>
+{% else %}
+Experiemnt Duration: {{ Duration }} days<br>
+{% endif %}
+Set Temperature: {{ SetTemp }}
+
+</body>
+</html>

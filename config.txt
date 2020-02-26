@@ -1,0 +1,7 @@
+RunProtocol,1
+EndProtocol,0
+LockParameters,1
+BlueTime,5.0
+GreenTime,4.0
+Duration,3.0
+SetTemp,30.0

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<head>
+ <title>{{ title }}</title>
+ <link rel="stylesheet" href="../static/style.css" />
+</head>
+<body>
+ <h1>Bixel Data</h1><br>
+(Refresh screen to update)
+  {% if RunProtocol == 1 %}
+  <h2>Experiment started on {{ datestart }} at {{ timestart }}</h2>
+[Data will go here]<br>
+Current Settings: (etc)
+  {% else %}
+  <h2>There is no protocol running.<br>Set up a new experiment</h2>
+  <a href="/configure" class="button">Configure</a>
+ Or view old data (not available yet)
+  <a href="/view" class="button">(Nothing here)</a>
+{% endif %}
+  <h2>View previous data (Feature not added yet)</h2>
+  <a href="/" class="button">Return Home</a>
+
+  <br>
+<b>Status</b><br>
+Temperature: {{ temp }}<br>
+Humidity: {{ hum }}<br>
+Date: {{ date }}<br>
+Time: {{ time }}
+  
+</body>
+</html>

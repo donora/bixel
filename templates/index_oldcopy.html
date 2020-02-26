@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+    <head>
+        <title>{{ title }}</title>
+        <link rel="stylesheet" href="../static/style.css" />
+    </head>
+    <body>
+        <h1>Temperature, Humidity and Fan Control</h1>
+        <h3 id="datetime">The date and time on the server is: {{ date }} {{ time }}</h3>
+        <button onclick="updateValue()">Update</button>
+        <h3><a href="/test">Test here</a></h3>
+        <h3>Temperature: {{ temp }}</h3>
+        <h3>Humidity: {{ hum }}</h3>
+        <h3>Fan status: {{ fanstat }}</h3>
+        <br>
+        <h2> Fan Control </h2>
+        <h3>
+            <form action="/fan/on" method="post">
+                <label for="runtime">Run Time:</label><br>
+                <input type="number" id="runtime" name="runtime"><br>
+                <label for="interval">Interval:</label><br>
+                <input type="number" id="interval" name="interval"><br>
+                <label for="repeats">Number of Repeats:</label><br>
+                <input type="number" id="repeats" name="repeats"><br>
+                <input type="submit" value="Turn On" class="button">
+        </h3>
+        <br>
+        <h3>
+            {% if nothome == 1 %}
+                <a href="/"><== Home</a>
+            {% endif %}
+        </h3>
+
+        <script>
+            function updateValue(){
+                document.getElementById("datetime").innerHTML = "Time: {{ time }}"
+            }
+        </script>
+
+
+    </body>
+</html>
