@@ -5,26 +5,25 @@
 </head>
 <body>
  <h1>Bixel Data</h1><br>
-(Refresh screen to update)
-  {% if RunProtocol == 1 %}
-  <h2>Experiment started on {{ datestart }} at {{ timestart }}</h2>
+  {% if LockParameters == 1 %}
 [Data will go here]<br>
-Current Settings: (etc)
+Experiment started on {{ datestart }} at {{ timestart }}<br>
+(Refresh screen to update)<br><br>
+<b>Current Settings: (etc)</b><br><br>
+  <a href="/endconfirm" class="button">END EXPERIMENT</a><br><br>
   {% else %}
-  <h2>There is no protocol running.<br>Set up a new experiment</h2>
-  <a href="/configure" class="button">Configure</a>
- Or view old data (not available yet)
-  <a href="/view" class="button">(Nothing here)</a>
+<h3>There is no protocol running.</h3><br><br>Set up a new experiment: 
+  <a href="/configure" class="button">Configure</a><br><br>
+ Or view old data (not available yet): 
+  <a href="/view" class="button">(Nothing here)</a><br><br>
 {% endif %}
-  <h2>View previous data (Feature not added yet)</h2>
-  <a href="/" class="button">Return Home</a>
-
   <br>
 <b>Status</b><br>
 Temperature: {{ temp }}<br>
 Humidity: {{ hum }}<br>
 Date: {{ date }}<br>
-Time: {{ time }}
+Time: {{ time }}<br><br>
+  <a href="/" class="button">Return Home</a>
   
 </body>
 </html>

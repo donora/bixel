@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<head>
+ <title>{{ title }}</title>
+ <link rel="stylesheet" href="../static/style.css" />
+</head>
+<body>
+  {% if endroute == 0 %}
+  Looks like you got here from the taskbar<br><br> Please end experiment via data page: 
+  <a href="/view" class="button">Go</a><br><br>
+  {% else %}
+  {% if LockParameters == 1 %}
+  <h2>An experiment is still running! Started on {{ datestart }} at {{ timestart }}</h2>
+  See live data or end protocol here:
+  <a href="/view" class="button">Go</a>
+  {% else %}
+ <h1>Protocol Ended</h1><br>
+{% endif %}
+{% endif %}
+
+  <br>
+<b>Status</b><br>
+Temperature: {{ temp }}<br>
+Humidity: {{ hum }}<br>
+Date: {{ date }}<br>
+Time: {{ time }}<br><br>
+  <a href="/" class="button">Return Home</a><br>
+  
+</body>
+</html>
