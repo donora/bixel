@@ -1,0 +1,142 @@
+wrote to config
+if protocol is live flag yes
+if protocol is live and mins blue light flag yes
+trying to start camera...
+Camera Started
+swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+wrote to config
+if protocol is live flag yes
+if protocol is live and mins blue light flag yes
+trying to start camera...
+Camera Started
+swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+wrote to config
+if protocol is live flag yes
+if protocol is live and mins blue light flag yes
+trying to start camera...
+Camera Started
+swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+wrote to config
+if protocol is live flag yes
+if protocol is live and mins blue light flag yes
+trying to start camera...
+Camera Started
+swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+wrote to config
+if protocol is live flag yes
+if protocol is live and mins blue light flag yes
+trying to start camera...
+Camera Started
+swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+wrote to config
+if protocol is live flag yes
+if protocol is live and mins blue light flag yes
+trying to start camera...
+Camera Started
+swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+wrote to config
+if protocol is live flag yes
+if protocol is live and mins blue light flag yes
+trying to start camera...
+Camera Started
+swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+wrote to config
+if protocol is live flag yes
+if protocol is live and mins blue light flag yes
+trying to start camera...
+Camera Started
+swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+wrote to config
+if protocol is live flag yes
+if protocol is live and mins blue light flag yes
+trying to start camera...
+Camera Started
+swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+wrote to config
+if protocol is live flag yes
+if protocol is live and mins blue light flag yes
+trying to start camera...
+Camera Started
+swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+wrote to config
+if protocol is live flag yes
+if protocol is live and mins blue light flag yes
+trying to start camera...
+wrote to config
+if protocol is live flag yes
+if protocol is live and mins blue light flag yes
+trying to start camera...
+Camera Started
+swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+wrote to config
+if protocol is live flag yes
+if protocol is live and mins blue light flag yes
+trying to start camera...
+Camera Started
+swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+wrote to config
+if protocol is live flag yes
+if protocol is live and mins blue light flag yes
+trying to start camera...
+Camera Started
+swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+wrote to config
+if protocol is live flag yes
+if protocol is live and mins blue light flag yes
+trying to start camera...
+Camera Started
+swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+wrote to config
+if protocol is live flag yes
+if protocol is live and mins blue light flag yes
+trying to start camera...
+Camera Started
+swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+wrote to config
+if protocol is live flag yes
+if protocol is live and mins blue light flag yes
+trying to start camera...
+Camera Started
+swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+wrote to config
+if protocol is live flag yes
+if protocol is live and mins blue light flag yes
+trying to start camera...
+Camera Started
+swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+wrote to config
+if protocol is live flag yes
+if protocol is live and mins blue light flag yes
+trying to start camera...
+Camera Started
+swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+wrote to config
+if protocol is live flag yes
+if protocol is live and mins blue light flag yes
+trying to start camera...
+Camera Started
+swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+wrote to config
+if protocol is live flag yes
+if protocol is live and mins blue light flag yes
+trying to start camera...
+Camera Started
+swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+wrote to config
+if protocol is live flag yes
+if protocol is live and mins blue light flag yes
+trying to start camera...
+Camera Started
+swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+wrote to config
+if protocol is live flag yes
+if protocol is live and mins blue light flag yes
+trying to start camera...
+Camera Started
+swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+wrote to config
+if protocol is live flag yes
+if protocol is live and mins blue light flag yes
+trying to start camera...
+Camera Started
+swig/python detected a memory leak of type 'ws2811_t *', no destructor found.

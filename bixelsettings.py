@@ -2,9 +2,9 @@ import os
 import Adafruit_DHT
 from flask import Flask, render_template, request
 app = Flask(__name__)
+app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0
 import time
 from datetime import datetime
-
 #####################
 #Flags
 dicts = {
@@ -16,7 +16,9 @@ dicts = {
 'Duration' : 0,
 'SetTemp' : 0.0,
 'TimeStart' : 'null',
-'DateStart' : 'null'}
+'DateStart' : 'null',
+'CronCount' : 0,
+'Counter' : 0}
 #Duration is in days; set to 0 for no set ending
 #Green time in seconds
 #Blue time in minutes
@@ -156,6 +158,8 @@ def confirm():
     readfromconfig()
     dicts['RunProtocol'] = 1
     dicts['EndProtocol'] = 0
+    dicts['Counter'] = 0
+    dicts['CronCount'] = 0
     dicts['LockParameters'] = 1
     dicts['BlueTime'] = float(request.form['BlueTime']) #minutes
     dicts['GreenTime'] = float(request.form['GreenTime']) #seconds
@@ -204,6 +208,7 @@ def view():
         'temp' : temp,
         'timestart' : dicts['TimeStart'],
         'datestart' : dicts['DateStart'],
+        'Counter' : int(dicts['Counter']),
         'hum' : hum,
         'date' : date,
         'time' : timenow,
@@ -235,7 +240,7 @@ def end():
 #FIND IMAGES for etc
     if endroute == 1:
         dicts['EndProtocol'] = 1
-        dicts['StartProtocol'] = 0
+        dicts['RunProtocol'] = 0
         dicts['LockParameters'] = 0
         writetoconfig()
     templateData= {
