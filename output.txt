@@ -1,142 +1,4370 @@
-wrote to config
-if protocol is live flag yes
-if protocol is live and mins blue light flag yes
+CronCout = 1
+counter increased
 trying to start camera...
 Camera Started
-swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+Iteration 1, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
 wrote to config
-if protocol is live flag yes
-if protocol is live and mins blue light flag yes
+CronCout = 2
+counter increased
 trying to start camera...
 Camera Started
-swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+Iteration 2, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
 wrote to config
-if protocol is live flag yes
-if protocol is live and mins blue light flag yes
+CronCout = 3
+counter increased
 trying to start camera...
 Camera Started
-swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+Iteration 3, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
 wrote to config
-if protocol is live flag yes
-if protocol is live and mins blue light flag yes
+CronCout = 4
+counter increased
 trying to start camera...
 Camera Started
-swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+Iteration 4, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
 wrote to config
-if protocol is live flag yes
-if protocol is live and mins blue light flag yes
+CronCout = 5
+counter increased
 trying to start camera...
 Camera Started
-swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+Iteration 5, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
 wrote to config
-if protocol is live flag yes
-if protocol is live and mins blue light flag yes
+CronCout = 6
+counter increased
 trying to start camera...
 Camera Started
-swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+Iteration 6, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
 wrote to config
-if protocol is live flag yes
-if protocol is live and mins blue light flag yes
+CronCout = 7
+counter increased
 trying to start camera...
 Camera Started
-swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+Iteration 7, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
 wrote to config
-if protocol is live flag yes
-if protocol is live and mins blue light flag yes
+CronCout = 8
+counter increased
 trying to start camera...
 Camera Started
-swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+Iteration 8, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
 wrote to config
-if protocol is live flag yes
-if protocol is live and mins blue light flag yes
+CronCout = 9
+counter increased
 trying to start camera...
 Camera Started
-swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+Iteration 9, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
 wrote to config
-if protocol is live flag yes
-if protocol is live and mins blue light flag yes
+CronCout = 10
+counter increased
 trying to start camera...
 Camera Started
-swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+Iteration 10, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
 wrote to config
-if protocol is live flag yes
-if protocol is live and mins blue light flag yes
-trying to start camera...
-wrote to config
-if protocol is live flag yes
-if protocol is live and mins blue light flag yes
-trying to start camera...
-Camera Started
-swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
-wrote to config
-if protocol is live flag yes
-if protocol is live and mins blue light flag yes
+CronCout = 11
+counter increased
 trying to start camera...
 Camera Started
-swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+Iteration 11, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
 wrote to config
-if protocol is live flag yes
-if protocol is live and mins blue light flag yes
+CronCout = 12
+counter increased
 trying to start camera...
 Camera Started
-swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+Iteration 12, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
 wrote to config
-if protocol is live flag yes
-if protocol is live and mins blue light flag yes
+CronCout = 13
+counter increased
 trying to start camera...
 Camera Started
-swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+Iteration 13, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
 wrote to config
-if protocol is live flag yes
-if protocol is live and mins blue light flag yes
+CronCout = 14
+counter increased
 trying to start camera...
 Camera Started
-swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+Iteration 14, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
 wrote to config
-if protocol is live flag yes
-if protocol is live and mins blue light flag yes
+CronCout = 15
+counter increased
 trying to start camera...
 Camera Started
-swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+Iteration 15, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
 wrote to config
-if protocol is live flag yes
-if protocol is live and mins blue light flag yes
+CronCout = 16
+counter increased
 trying to start camera...
 Camera Started
-swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+Iteration 16, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
 wrote to config
-if protocol is live flag yes
-if protocol is live and mins blue light flag yes
+CronCout = 17
+counter increased
 trying to start camera...
 Camera Started
-swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+Iteration 17, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
 wrote to config
-if protocol is live flag yes
-if protocol is live and mins blue light flag yes
+CronCout = 18
+counter increased
 trying to start camera...
 Camera Started
-swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+Iteration 18, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
 wrote to config
-if protocol is live flag yes
-if protocol is live and mins blue light flag yes
+CronCout = 19
+counter increased
 trying to start camera...
 Camera Started
-swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+Iteration 19, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
 wrote to config
-if protocol is live flag yes
-if protocol is live and mins blue light flag yes
+CronCout = 20
+counter increased
 trying to start camera...
 Camera Started
-swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+Iteration 20, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
 wrote to config
-if protocol is live flag yes
-if protocol is live and mins blue light flag yes
+CronCout = 21
+counter increased
 trying to start camera...
 Camera Started
-swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+Iteration 21, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
 wrote to config
-if protocol is live flag yes
-if protocol is live and mins blue light flag yes
+CronCout = 22
+counter increased
 trying to start camera...
 Camera Started
-swig/python detected a memory leak of type 'ws2811_t *', no destructor found.
+Iteration 22, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 23
+counter increased
+trying to start camera...
+Camera Started
+Iteration 23, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 24
+counter increased
+trying to start camera...
+Camera Started
+Iteration 24, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 25
+counter increased
+trying to start camera...
+Camera Started
+Iteration 25, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 26
+counter increased
+trying to start camera...
+Camera Started
+Iteration 26, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 27
+counter increased
+trying to start camera...
+Camera Started
+Iteration 27, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 28
+counter increased
+trying to start camera...
+Camera Started
+Iteration 28, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 29
+counter increased
+trying to start camera...
+Camera Started
+Iteration 29, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 30
+counter increased
+trying to start camera...
+Camera Started
+Iteration 30, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+Making GIF...
+wrote to config
+CronCout = 31
+counter increased
+trying to start camera...
+Camera Started
+Iteration 31, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 32
+counter increased
+trying to start camera...
+Camera Started
+Iteration 32, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 33
+counter increased
+trying to start camera...
+Camera Started
+Iteration 33, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 34
+counter increased
+trying to start camera...
+Camera Started
+Iteration 34, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 35
+counter increased
+trying to start camera...
+Camera Started
+Iteration 35, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 36
+counter increased
+trying to start camera...
+Camera Started
+Iteration 36, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 37
+counter increased
+trying to start camera...
+Camera Started
+Iteration 37, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 38
+counter increased
+trying to start camera...
+Camera Started
+Iteration 38, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 39
+counter increased
+trying to start camera...
+Camera Started
+Iteration 39, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 40
+counter increased
+trying to start camera...
+Camera Started
+Iteration 40, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 41
+counter increased
+trying to start camera...
+Camera Started
+Iteration 41, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 42
+counter increased
+trying to start camera...
+Camera Started
+Iteration 42, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 43
+counter increased
+trying to start camera...
+Camera Started
+Iteration 43, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 44
+counter increased
+trying to start camera...
+Camera Started
+Iteration 44, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 45
+counter increased
+trying to start camera...
+Camera Started
+Iteration 45, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 46
+counter increased
+trying to start camera...
+Camera Started
+Iteration 46, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 47
+counter increased
+trying to start camera...
+Camera Started
+Iteration 47, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 48
+counter increased
+trying to start camera...
+Camera Started
+Iteration 48, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 49
+counter increased
+trying to start camera...
+Camera Started
+Iteration 49, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 50
+counter increased
+trying to start camera...
+Camera Started
+Iteration 50, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 51
+counter increased
+trying to start camera...
+Camera Started
+Iteration 51, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 52
+counter increased
+trying to start camera...
+Camera Started
+Iteration 52, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 53
+counter increased
+trying to start camera...
+Camera Started
+Iteration 53, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 54
+counter increased
+trying to start camera...
+Camera Started
+Iteration 54, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 55
+counter increased
+trying to start camera...
+Camera Started
+Iteration 55, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 56
+counter increased
+trying to start camera...
+Camera Started
+Iteration 56, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 57
+counter increased
+trying to start camera...
+Camera Started
+Iteration 57, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 58
+counter increased
+trying to start camera...
+Camera Started
+Iteration 58, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 59
+counter increased
+trying to start camera...
+Camera Started
+Iteration 59, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 60
+counter increased
+trying to start camera...
+Camera Started
+Iteration 60, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+Making GIF...
+wrote to config
+CronCout = 61
+counter increased
+trying to start camera...
+Camera Started
+Iteration 61, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 62
+counter increased
+trying to start camera...
+Camera Started
+Iteration 62, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 63
+counter increased
+trying to start camera...
+Camera Started
+Iteration 63, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 64
+counter increased
+trying to start camera...
+Camera Started
+Iteration 64, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 65
+counter increased
+trying to start camera...
+Camera Started
+Iteration 65, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 66
+counter increased
+trying to start camera...
+Camera Started
+Iteration 66, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 67
+counter increased
+trying to start camera...
+Camera Started
+Iteration 67, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 68
+counter increased
+trying to start camera...
+Camera Started
+Iteration 68, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 69
+counter increased
+trying to start camera...
+Camera Started
+Iteration 69, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 70
+counter increased
+trying to start camera...
+Camera Started
+Iteration 70, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 71
+counter increased
+trying to start camera...
+Camera Started
+Iteration 71, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 72
+counter increased
+trying to start camera...
+Camera Started
+Iteration 72, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 73
+counter increased
+trying to start camera...
+Camera Started
+Iteration 73, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 74
+counter increased
+trying to start camera...
+Camera Started
+Iteration 74, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 75
+counter increased
+trying to start camera...
+Camera Started
+Iteration 75, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 76
+counter increased
+trying to start camera...
+Camera Started
+Iteration 76, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 77
+counter increased
+trying to start camera...
+Camera Started
+Iteration 77, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 78
+counter increased
+trying to start camera...
+Camera Started
+Iteration 78, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 79
+counter increased
+trying to start camera...
+Camera Started
+Iteration 79, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 80
+counter increased
+trying to start camera...
+Camera Started
+Iteration 80, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 81
+counter increased
+trying to start camera...
+Camera Started
+Iteration 81, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 82
+counter increased
+trying to start camera...
+Camera Started
+Iteration 82, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 83
+counter increased
+trying to start camera...
+Camera Started
+Iteration 83, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 84
+counter increased
+trying to start camera...
+Camera Started
+Iteration 84, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 85
+counter increased
+trying to start camera...
+Camera Started
+Iteration 85, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 86
+counter increased
+trying to start camera...
+Camera Started
+Iteration 86, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 87
+counter increased
+trying to start camera...
+Camera Started
+Iteration 87, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 88
+counter increased
+trying to start camera...
+Camera Started
+Iteration 88, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 89
+counter increased
+trying to start camera...
+Camera Started
+Iteration 89, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 90
+counter increased
+trying to start camera...
+Camera Started
+Iteration 90, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+Making GIF...
+wrote to config
+CronCout = 91
+counter increased
+trying to start camera...
+Camera Started
+Iteration 91, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 92
+counter increased
+trying to start camera...
+Camera Started
+Iteration 92, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 93
+counter increased
+trying to start camera...
+Camera Started
+Iteration 93, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 94
+counter increased
+trying to start camera...
+Camera Started
+Iteration 94, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 95
+counter increased
+trying to start camera...
+Camera Started
+Iteration 95, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 96
+counter increased
+trying to start camera...
+Camera Started
+Iteration 96, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 97
+counter increased
+trying to start camera...
+Camera Started
+Iteration 97, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 98
+counter increased
+trying to start camera...
+Camera Started
+Iteration 98, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 99
+counter increased
+trying to start camera...
+Camera Started
+Iteration 99, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 100
+counter increased
+trying to start camera...
+Camera Started
+Iteration 100, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 101
+counter increased
+trying to start camera...
+Camera Started
+Iteration 101, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 102
+counter increased
+trying to start camera...
+Camera Started
+Iteration 102, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 103
+counter increased
+trying to start camera...
+Camera Started
+Iteration 103, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 104
+counter increased
+trying to start camera...
+Camera Started
+Iteration 104, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 105
+counter increased
+trying to start camera...
+Camera Started
+Iteration 105, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 106
+counter increased
+trying to start camera...
+Camera Started
+Iteration 106, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 107
+counter increased
+trying to start camera...
+Camera Started
+Iteration 107, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 108
+counter increased
+trying to start camera...
+Camera Started
+Iteration 108, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 109
+counter increased
+trying to start camera...
+Camera Started
+Iteration 109, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 110
+counter increased
+trying to start camera...
+Camera Started
+Iteration 110, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 111
+counter increased
+trying to start camera...
+Camera Started
+Iteration 111, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 112
+counter increased
+trying to start camera...
+Camera Started
+Iteration 112, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 113
+counter increased
+trying to start camera...
+Camera Started
+Iteration 113, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 114
+counter increased
+trying to start camera...
+Camera Started
+Iteration 114, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 115
+counter increased
+trying to start camera...
+Camera Started
+Iteration 115, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 116
+counter increased
+trying to start camera...
+Camera Started
+Iteration 116, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 117
+counter increased
+trying to start camera...
+Camera Started
+Iteration 117, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 118
+counter increased
+trying to start camera...
+Camera Started
+Iteration 118, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 119
+counter increased
+trying to start camera...
+Camera Started
+Iteration 119, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 120
+counter increased
+trying to start camera...
+Camera Started
+Iteration 120, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+Making GIF...
+wrote to config
+CronCout = 121
+counter increased
+trying to start camera...
+Camera Started
+Iteration 121, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 122
+counter increased
+trying to start camera...
+Camera Started
+Iteration 122, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 123
+counter increased
+trying to start camera...
+Camera Started
+Iteration 123, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 124
+counter increased
+trying to start camera...
+Camera Started
+Iteration 124, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 125
+counter increased
+trying to start camera...
+Camera Started
+Iteration 125, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 126
+counter increased
+trying to start camera...
+Camera Started
+Iteration 126, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 127
+counter increased
+trying to start camera...
+Camera Started
+Iteration 127, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 128
+counter increased
+trying to start camera...
+Camera Started
+Iteration 128, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 129
+counter increased
+trying to start camera...
+Camera Started
+Iteration 129, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 130
+counter increased
+trying to start camera...
+Camera Started
+Iteration 130, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 131
+counter increased
+trying to start camera...
+Camera Started
+Iteration 131, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 132
+counter increased
+trying to start camera...
+Camera Started
+Iteration 132, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 133
+counter increased
+trying to start camera...
+Camera Started
+Iteration 133, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 134
+counter increased
+trying to start camera...
+Camera Started
+Iteration 134, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 135
+counter increased
+trying to start camera...
+Camera Started
+Iteration 135, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 136
+counter increased
+trying to start camera...
+Camera Started
+Iteration 136, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 137
+counter increased
+trying to start camera...
+Camera Started
+Iteration 137, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 138
+counter increased
+trying to start camera...
+Camera Started
+Iteration 138, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 139
+counter increased
+trying to start camera...
+Camera Started
+Iteration 139, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 140
+counter increased
+trying to start camera...
+Camera Started
+Iteration 140, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 141
+counter increased
+trying to start camera...
+Camera Started
+Iteration 141, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 142
+counter increased
+trying to start camera...
+Camera Started
+Iteration 142, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 143
+counter increased
+trying to start camera...
+Camera Started
+Iteration 143, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 144
+counter increased
+trying to start camera...
+Camera Started
+Iteration 144, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 145
+counter increased
+trying to start camera...
+Camera Started
+Iteration 145, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 146
+counter increased
+trying to start camera...
+Camera Started
+Iteration 146, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 147
+counter increased
+trying to start camera...
+Camera Started
+Iteration 147, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 148
+counter increased
+trying to start camera...
+Camera Started
+Iteration 148, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 149
+counter increased
+trying to start camera...
+Camera Started
+Iteration 149, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 150
+counter increased
+trying to start camera...
+Camera Started
+Iteration 150, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+Making GIF...
+wrote to config
+CronCout = 151
+counter increased
+trying to start camera...
+Camera Started
+Iteration 151, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 152
+counter increased
+trying to start camera...
+Camera Started
+Iteration 152, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 153
+counter increased
+trying to start camera...
+Camera Started
+Iteration 153, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 154
+counter increased
+trying to start camera...
+Camera Started
+Iteration 154, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 155
+counter increased
+trying to start camera...
+Camera Started
+Iteration 155, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 156
+counter increased
+trying to start camera...
+Camera Started
+Iteration 156, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 157
+counter increased
+trying to start camera...
+Camera Started
+Iteration 157, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 158
+counter increased
+trying to start camera...
+Camera Started
+Iteration 158, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 159
+counter increased
+trying to start camera...
+Camera Started
+Iteration 159, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 160
+counter increased
+trying to start camera...
+Camera Started
+Iteration 160, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 161
+counter increased
+trying to start camera...
+Camera Started
+Iteration 161, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 162
+counter increased
+trying to start camera...
+Camera Started
+Iteration 162, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 163
+counter increased
+trying to start camera...
+Camera Started
+Iteration 163, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 164
+counter increased
+trying to start camera...
+Camera Started
+Iteration 164, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 165
+counter increased
+trying to start camera...
+Camera Started
+Iteration 165, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 166
+counter increased
+trying to start camera...
+Camera Started
+Iteration 166, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 167
+counter increased
+trying to start camera...
+Camera Started
+Iteration 167, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 168
+counter increased
+trying to start camera...
+Camera Started
+Iteration 168, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 169
+counter increased
+trying to start camera...
+Camera Started
+Iteration 169, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 170
+counter increased
+trying to start camera...
+Camera Started
+Iteration 170, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 171
+counter increased
+trying to start camera...
+Camera Started
+Iteration 171, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 172
+counter increased
+trying to start camera...
+Camera Started
+Iteration 172, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 173
+counter increased
+trying to start camera...
+Camera Started
+Iteration 173, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 174
+counter increased
+trying to start camera...
+Camera Started
+Iteration 174, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 175
+counter increased
+trying to start camera...
+Camera Started
+Iteration 175, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 176
+counter increased
+trying to start camera...
+Camera Started
+Iteration 176, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 177
+counter increased
+trying to start camera...
+Camera Started
+Iteration 177, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 178
+counter increased
+trying to start camera...
+Camera Started
+Iteration 178, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 179
+counter increased
+trying to start camera...
+Camera Started
+Iteration 179, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 180
+counter increased
+trying to start camera...
+Camera Started
+Iteration 180, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+Making GIF...
+wrote to config
+CronCout = 181
+counter increased
+trying to start camera...
+Camera Started
+Iteration 181, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 180
+counter increased
+trying to start camera...
+Camera Started
+Iteration 180, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+Making GIF...
+wrote to config
+CronCout = 182
+counter increased
+trying to start camera...
+Camera Started
+Iteration 182, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 183
+counter increased
+trying to start camera...
+Camera Started
+Iteration 183, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 184
+counter increased
+trying to start camera...
+Camera Started
+Iteration 184, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 185
+counter increased
+trying to start camera...
+Camera Started
+Iteration 185, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 186
+counter increased
+trying to start camera...
+Camera Started
+Iteration 186, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 187
+counter increased
+trying to start camera...
+Camera Started
+Iteration 187, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 188
+counter increased
+trying to start camera...
+Camera Started
+Iteration 188, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 189
+counter increased
+trying to start camera...
+Camera Started
+Iteration 189, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 190
+counter increased
+trying to start camera...
+Camera Started
+Iteration 190, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 191
+counter increased
+trying to start camera...
+Camera Started
+Iteration 191, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 192
+counter increased
+trying to start camera...
+Camera Started
+Iteration 192, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 193
+counter increased
+trying to start camera...
+Camera Started
+Iteration 193, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 194
+counter increased
+trying to start camera...
+Camera Started
+Iteration 194, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 195
+counter increased
+trying to start camera...
+Camera Started
+Iteration 195, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 196
+counter increased
+trying to start camera...
+Camera Started
+Iteration 196, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 197
+counter increased
+trying to start camera...
+Camera Started
+Iteration 197, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 198
+counter increased
+trying to start camera...
+Camera Started
+Iteration 198, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 199
+counter increased
+trying to start camera...
+Camera Started
+Iteration 199, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 200
+counter increased
+trying to start camera...
+Camera Started
+Iteration 200, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 201
+counter increased
+trying to start camera...
+Camera Started
+Iteration 201, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 202
+counter increased
+trying to start camera...
+Camera Started
+Iteration 202, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 203
+counter increased
+trying to start camera...
+Camera Started
+Iteration 203, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 204
+counter increased
+trying to start camera...
+Camera Started
+Iteration 204, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 205
+counter increased
+trying to start camera...
+Camera Started
+Iteration 205, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 206
+counter increased
+trying to start camera...
+Camera Started
+Iteration 206, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 207
+counter increased
+trying to start camera...
+Camera Started
+Iteration 207, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 208
+counter increased
+trying to start camera...
+Camera Started
+Iteration 208, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 209
+counter increased
+trying to start camera...
+Camera Started
+Iteration 209, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 210
+counter increased
+trying to start camera...
+Camera Started
+Iteration 210, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+Making GIF...
+wrote to config
+CronCout = 211
+counter increased
+trying to start camera...
+Camera Started
+Iteration 211, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 210
+counter increased
+trying to start camera...
+Camera Started
+Iteration 210, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+Making GIF...
+wrote to config
+CronCout = 211
+counter increased
+trying to start camera...
+Camera Started
+Iteration 211, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 212
+counter increased
+trying to start camera...
+Camera Started
+Iteration 212, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 213
+counter increased
+trying to start camera...
+Camera Started
+Iteration 213, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 214
+counter increased
+trying to start camera...
+Camera Started
+Iteration 214, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 215
+counter increased
+trying to start camera...
+Camera Started
+Iteration 215, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 216
+counter increased
+trying to start camera...
+Camera Started
+Iteration 216, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 217
+counter increased
+trying to start camera...
+Camera Started
+Iteration 217, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 218
+counter increased
+trying to start camera...
+Camera Started
+Iteration 218, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 219
+counter increased
+trying to start camera...
+Camera Started
+Iteration 219, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 220
+counter increased
+trying to start camera...
+Camera Started
+Iteration 220, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 221
+counter increased
+trying to start camera...
+Camera Started
+Iteration 221, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 222
+counter increased
+trying to start camera...
+Camera Started
+Iteration 222, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 223
+counter increased
+trying to start camera...
+Camera Started
+Iteration 223, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 224
+counter increased
+trying to start camera...
+Camera Started
+Iteration 224, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 225
+counter increased
+trying to start camera...
+Camera Started
+Iteration 225, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 226
+counter increased
+trying to start camera...
+Camera Started
+Iteration 226, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 227
+counter increased
+trying to start camera...
+Camera Started
+Iteration 227, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 228
+counter increased
+trying to start camera...
+Camera Started
+Iteration 228, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 229
+counter increased
+trying to start camera...
+Camera Started
+Iteration 229, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 230
+counter increased
+trying to start camera...
+Camera Started
+Iteration 230, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 231
+counter increased
+trying to start camera...
+Camera Started
+Iteration 231, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 232
+counter increased
+trying to start camera...
+Camera Started
+Iteration 232, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 233
+counter increased
+trying to start camera...
+Camera Started
+Iteration 233, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 234
+counter increased
+trying to start camera...
+Camera Started
+Iteration 234, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 235
+counter increased
+trying to start camera...
+Camera Started
+Iteration 235, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 236
+counter increased
+trying to start camera...
+Camera Started
+Iteration 236, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 237
+counter increased
+trying to start camera...
+Camera Started
+Iteration 237, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 238
+counter increased
+trying to start camera...
+Camera Started
+Iteration 238, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 239
+counter increased
+trying to start camera...
+Camera Started
+Iteration 239, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 240
+counter increased
+trying to start camera...
+Camera Started
+Iteration 240, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+Making GIF...
+wrote to config
+CronCout = 241
+counter increased
+trying to start camera...
+Camera Started
+Iteration 241, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 240
+counter increased
+trying to start camera...
+Camera Started
+Iteration 240, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+Making GIF...
+wrote to config
+CronCout = 242
+counter increased
+trying to start camera...
+Camera Started
+Iteration 242, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 243
+counter increased
+trying to start camera...
+Camera Started
+Iteration 243, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 244
+counter increased
+trying to start camera...
+Camera Started
+Iteration 244, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 245
+counter increased
+trying to start camera...
+Camera Started
+Iteration 245, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 246
+counter increased
+trying to start camera...
+Camera Started
+Iteration 246, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 247
+counter increased
+trying to start camera...
+Camera Started
+Iteration 247, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 248
+counter increased
+trying to start camera...
+Camera Started
+Iteration 248, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 249
+counter increased
+trying to start camera...
+Camera Started
+Iteration 249, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 250
+counter increased
+trying to start camera...
+Camera Started
+Iteration 250, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 251
+counter increased
+trying to start camera...
+Camera Started
+Iteration 251, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 252
+counter increased
+trying to start camera...
+Camera Started
+Iteration 252, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 253
+counter increased
+trying to start camera...
+Camera Started
+Iteration 253, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 254
+counter increased
+trying to start camera...
+Camera Started
+Iteration 254, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 255
+counter increased
+trying to start camera...
+Camera Started
+Iteration 255, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 256
+counter increased
+trying to start camera...
+Camera Started
+Iteration 256, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 257
+counter increased
+trying to start camera...
+Camera Started
+Iteration 257, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 258
+counter increased
+trying to start camera...
+Camera Started
+Iteration 258, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 259
+counter increased
+trying to start camera...
+Camera Started
+Iteration 259, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 260
+counter increased
+trying to start camera...
+Camera Started
+Iteration 260, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 261
+counter increased
+trying to start camera...
+Camera Started
+Iteration 261, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 262
+counter increased
+trying to start camera...
+Camera Started
+Iteration 262, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 263
+counter increased
+trying to start camera...
+Camera Started
+Iteration 263, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 264
+counter increased
+trying to start camera...
+Camera Started
+Iteration 264, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 265
+counter increased
+trying to start camera...
+Camera Started
+Iteration 265, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 266
+counter increased
+trying to start camera...
+Camera Started
+Iteration 266, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 267
+counter increased
+trying to start camera...
+Camera Started
+Iteration 267, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 268
+counter increased
+trying to start camera...
+Camera Started
+Iteration 268, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 269
+counter increased
+trying to start camera...
+Camera Started
+Iteration 269, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 270
+counter increased
+trying to start camera...
+Camera Started
+Iteration 270, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+Making GIF...
+wrote to config
+CronCout = 271
+counter increased
+trying to start camera...
+Camera Started
+Iteration 271, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 272
+counter increased
+trying to start camera...
+Camera Started
+Iteration 272, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 270
+counter increased
+trying to start camera...
+Camera Started
+Iteration 270, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+Making GIF...
+wrote to config
+CronCout = 271
+counter increased
+trying to start camera...
+Camera Started
+Iteration 271, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 272
+counter increased
+trying to start camera...
+Camera Started
+Iteration 272, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 273
+counter increased
+trying to start camera...
+Camera Started
+Iteration 273, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 274
+counter increased
+trying to start camera...
+Camera Started
+Iteration 274, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 275
+counter increased
+trying to start camera...
+Camera Started
+Iteration 275, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 276
+counter increased
+trying to start camera...
+Camera Started
+Iteration 276, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 277
+counter increased
+trying to start camera...
+Camera Started
+Iteration 277, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 278
+counter increased
+trying to start camera...
+Camera Started
+Iteration 278, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 279
+counter increased
+trying to start camera...
+Camera Started
+Iteration 279, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 280
+counter increased
+trying to start camera...
+Camera Started
+Iteration 280, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 281
+counter increased
+trying to start camera...
+Camera Started
+Iteration 281, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 282
+counter increased
+trying to start camera...
+Camera Started
+Iteration 282, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 283
+counter increased
+trying to start camera...
+Camera Started
+Iteration 283, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 284
+counter increased
+trying to start camera...
+Camera Started
+Iteration 284, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 285
+counter increased
+trying to start camera...
+Camera Started
+Iteration 285, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 286
+counter increased
+trying to start camera...
+Camera Started
+Iteration 286, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 287
+counter increased
+trying to start camera...
+Camera Started
+Iteration 287, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 288
+counter increased
+trying to start camera...
+Camera Started
+Iteration 288, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 289
+counter increased
+trying to start camera...
+Camera Started
+Iteration 289, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 290
+counter increased
+trying to start camera...
+Camera Started
+Iteration 290, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 291
+counter increased
+trying to start camera...
+Camera Started
+Iteration 291, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 292
+counter increased
+trying to start camera...
+Camera Started
+Iteration 292, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 293
+counter increased
+trying to start camera...
+Camera Started
+Iteration 293, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 294
+counter increased
+trying to start camera...
+Camera Started
+Iteration 294, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 295
+counter increased
+trying to start camera...
+Camera Started
+Iteration 295, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 296
+counter increased
+trying to start camera...
+Camera Started
+Iteration 296, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 297
+counter increased
+trying to start camera...
+Camera Started
+Iteration 297, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 298
+counter increased
+trying to start camera...
+Camera Started
+Iteration 298, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 299
+counter increased
+trying to start camera...
+Camera Started
+Iteration 299, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 300
+counter increased
+trying to start camera...
+Camera Started
+Iteration 300, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+Making GIF...
+wrote to config
+CronCout = 300
+counter increased
+trying to start camera...
+Camera Started
+Iteration 300, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+Making GIF...
+wrote to config
+CronCout = 301
+counter increased
+trying to start camera...
+Camera Started
+Iteration 301, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 302
+counter increased
+trying to start camera...
+Camera Started
+Iteration 302, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 303
+counter increased
+trying to start camera...
+Camera Started
+Iteration 303, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 304
+counter increased
+trying to start camera...
+Camera Started
+Iteration 304, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 305
+counter increased
+trying to start camera...
+Camera Started
+Iteration 305, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 306
+counter increased
+trying to start camera...
+Camera Started
+Iteration 306, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 307
+counter increased
+trying to start camera...
+Camera Started
+Iteration 307, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 308
+counter increased
+trying to start camera...
+Camera Started
+Iteration 308, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 309
+counter increased
+trying to start camera...
+Camera Started
+Iteration 309, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 310
+counter increased
+trying to start camera...
+Camera Started
+Iteration 310, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 311
+counter increased
+trying to start camera...
+Camera Started
+Iteration 311, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 312
+counter increased
+trying to start camera...
+Camera Started
+Iteration 312, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 313
+counter increased
+trying to start camera...
+Camera Started
+Iteration 313, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 314
+counter increased
+trying to start camera...
+Camera Started
+Iteration 314, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 315
+counter increased
+trying to start camera...
+Camera Started
+Iteration 315, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 316
+counter increased
+trying to start camera...
+Camera Started
+Iteration 316, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 317
+counter increased
+trying to start camera...
+Camera Started
+Iteration 317, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 318
+counter increased
+trying to start camera...
+Camera Started
+Iteration 318, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 319
+counter increased
+trying to start camera...
+Camera Started
+Iteration 319, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 320
+counter increased
+trying to start camera...
+Camera Started
+Iteration 320, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 321
+counter increased
+trying to start camera...
+Camera Started
+Iteration 321, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 322
+counter increased
+trying to start camera...
+Camera Started
+Iteration 322, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 323
+counter increased
+trying to start camera...
+Camera Started
+Iteration 323, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 324
+counter increased
+trying to start camera...
+Camera Started
+Iteration 324, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 325
+counter increased
+trying to start camera...
+Camera Started
+Iteration 325, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 326
+counter increased
+trying to start camera...
+Camera Started
+Iteration 326, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 327
+counter increased
+trying to start camera...
+Camera Started
+Iteration 327, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 328
+counter increased
+trying to start camera...
+Camera Started
+Iteration 328, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 329
+counter increased
+trying to start camera...
+Camera Started
+Iteration 329, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 330
+counter increased
+trying to start camera...
+Camera Started
+Iteration 330, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+Making GIF...
+wrote to config
+CronCout = 330
+counter increased
+trying to start camera...
+Camera Started
+Iteration 330, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+Making GIF...
+wrote to config
+CronCout = 331
+counter increased
+trying to start camera...
+CronCout = 331
+counter increased
+trying to start camera...
+CronCout = 331
+counter increased
+trying to start camera...
+CronCout = 331
+counter increased
+trying to start camera...
+CronCout = 331
+counter increased
+trying to start camera...
+CronCout = 331
+counter increased
+trying to start camera...
+CronCout = 331
+counter increased
+trying to start camera...
+CronCout = 331
+counter increased
+trying to start camera...
+Camera Started
+Iteration 331, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 331
+counter increased
+trying to start camera...
+Camera Started
+Iteration 331, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 331
+counter increased
+trying to start camera...
+Camera Started
+Iteration 331, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 332
+counter increased
+trying to start camera...
+CronCout = 333
+counter increased
+trying to start camera...
+Camera Started
+Iteration 333, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+CronCout = 334
+counter increased
+trying to start camera...
+Camera Started
+Iteration 334, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+Camera Closed (end)
+CronCout = 335
+counter increased
+Time: 12:51:10
+trying to start camera...
+Camera Started
+Iteration 335, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+Camera Closed (end)
+CronCout = 336
+counter increased
+Time: 12:52:10
+trying to start camera...
+Camera Started
+Iteration 336, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+Camera Closed (end)
+CronCout = 337
+counter increased
+Time: 12:53:09
+trying to start camera...
+Camera Started
+Iteration 337, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+Camera Closed (end)
+CronCout = 338
+counter increased
+Time: 12:54:12
+trying to start camera...
+Camera Started
+Iteration 338, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+Camera Closed (end)
+CronCout = 339
+counter increased
+Time: 12:55:11
+trying to start camera...
+Camera Started
+Iteration 339, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+Camera Closed (end)
+CronCout = 340
+counter increased
+Time: 12:56:09
+trying to start camera...
+Camera Started
+Iteration 340, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+Camera Closed (end)
+End time: 12:56:18
+CronCout = 341
+counter increased
+Time: 12:57:09
+trying to start camera...
+Camera Started
+Iteration 341, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+Camera Closed (end)
+End time: 12:57:18
+CronCout = 342
+counter increased
+Time: 12:58:13
+trying to start camera...
+Camera Started
+Iteration 342, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+Camera Closed (end)
+End time: 12:58:28
+CronCout = 343
+counter increased
+Time: 12:59:09
+trying to start camera...
+Camera Started
+Iteration 343, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+Camera Closed (end)
+End time: 12:59:19
+CronCout = 344
+counter increased
+Time: 13:00:11
+trying to start camera...
+Camera Started
+Iteration 344, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+Camera Closed (end)
+End time: 13:00:20
+CronCout = 345
+counter increased
+Time: 13:01:10
+trying to start camera...
+Camera Started
+Iteration 345, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+Camera Closed (end)
+End time: 13:01:19
+CronCout = 346
+counter increased
+Time: 13:02:09
+trying to start camera...
+Camera Started
+Iteration 346, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+Camera Closed (end)
+End time: 13:02:21
+CronCout = 347
+counter increased
+Time: 13:03:10
+trying to start camera...
+Camera Started
+Iteration 347, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+Camera Closed (end)
+End time: 13:03:19
+CronCout = 348
+counter increased
+Time: 13:04:10
+trying to start camera...
+Camera Started
+Iteration 348, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+Camera Closed (end)
+End time: 13:04:19
+CronCout = 349
+counter increased
+Time: 13:05:10
+trying to start camera...
+Camera Started
+Iteration 349, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+Camera Closed (end)
+End time: 13:05:19
+CronCout = 350
+counter increased
+Time: 13:06:10
+trying to start camera...
+Camera Started
+Iteration 350, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+Camera Closed (end)
+End time: 13:06:19
+CronCout = 351
+counter increased
+Time: 13:07:09
+trying to start camera...
+Camera Started
+Iteration 351, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+Camera Closed (end)
+End time: 13:07:19
+CronCout = 352
+counter increased
+Time: 13:08:10
+trying to start camera...
+Camera Started
+Iteration 352, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+Camera Closed (end)
+End time: 13:08:19
+CronCout = 353
+counter increased
+Time: 13:09:09
+trying to start camera...
+Camera Started
+Iteration 353, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+Camera Closed (end)
+End time: 13:09:19
+CronCout = 354
+counter increased
+Time: 13:10:10
+trying to start camera...
+Camera Started
+Iteration 354, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+Camera Closed (end)
+End time: 13:10:19
+CronCout = 355
+counter increased
+Time: 13:11:10
+trying to start camera...
+Camera Started
+Iteration 355, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+Camera Closed (end)
+End time: 13:11:19
+CronCout = 356
+counter increased
+Time: 13:12:10
+trying to start camera...
+Camera Started
+Iteration 356, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+Camera Closed (end)
+End time: 13:12:19
+CronCout = 357
+counter increased
+Time: 13:13:10
+trying to start camera...
+Camera Started
+Iteration 357, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+Camera Closed (end)
+End time: 13:13:19
+CronCout = 358
+counter increased
+Time: 13:14:10
+trying to start camera...
+Camera Started
+Iteration 358, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+Camera Closed (end)
+End time: 13:14:24
+CronCout = 359
+counter increased
+Time: 13:15:12
+trying to start camera...
+Camera Started
+Iteration 359, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+Camera Closed (end)
+End time: 13:15:21
+CronCout = 360
+counter increased
+Time: 13:16:10
+trying to start camera...
+Camera Started
+Iteration 360, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+Making GIF...
+wrote to config
+Camera Closed (end)
+End time: 13:41:49
+CronCout = 361
+counter increased
+Time: 14:02:18
+trying to start camera...
+Camera Started
+Iteration 361, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+Camera Closed (end)
+End time: 14:02:31
+CronCout = 362
+counter increased
+Time: 14:02:41
+trying to start camera...
+Camera Started
+Iteration 362, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+Camera Closed (end)
+End time: 14:02:53
+CronCout = 363
+counter increased
+Time: 14:03:09
+trying to start camera...
+Camera Started
+Iteration 363, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+Camera Closed (end)
+End time: 14:03:18
+CronCout = 364
+counter increased
+Time: 14:04:09
+trying to start camera...
+Camera Started
+Iteration 364, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+Camera Closed (end)
+End time: 14:04:19
+CronCout = 365
+counter increased
+Time: 14:05:09
+trying to start camera...
+Camera Started
+Iteration 365, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+Camera Closed (end)
+End time: 14:05:23
+CronCout = 366
+counter increased
+Time: 14:06:10
+trying to start camera...
+Camera Started
+Iteration 366, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+Camera Closed (end)
+End time: 14:06:21
+CronCout = 367
+counter increased
+Time: 14:07:10
+trying to start camera...
+Camera Started
+Iteration 367, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+Camera Closed (end)
+End time: 14:07:19
+CronCout = 368
+counter increased
+Time: 14:08:12
+trying to start camera...
+Camera Started
+Iteration 368, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+Camera Closed (end)
+End time: 14:08:21
+CronCout = 369
+counter increased
+Time: 14:09:10
+trying to start camera...
+Camera Started
+Iteration 369, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+Camera Closed (end)
+End time: 14:09:21
+CronCout = 370
+counter increased
+Time: 14:10:10
+trying to start camera...
+Camera Started
+Iteration 370, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+Camera Closed (end)
+End time: 14:10:19
+CronCout = 371
+counter increased
+Time: 14:11:10
+trying to start camera...
+Camera Started
+Iteration 371, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+wrote to config
+Camera Closed (end)
+End time: 14:11:19

@@ -1,0 +1,22 @@
+wrote to config
+CronCout = 1
+trying to start camera...
+Camera Started
+Iteration 0, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+counter increased
+wrote to config
+wrote to config
+CronCout = 2
+trying to start camera...
+Camera Started
+Iteration 1, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+counter increased
+wrote to config

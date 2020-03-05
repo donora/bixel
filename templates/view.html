@@ -8,8 +8,8 @@
   {% if LockParameters == 1 %}
 Times run: {{ Counter }}<br>
 [Data will go here]<br>
-<img src="/static/Latest.jpg" alt="Stills"><br>
-<img src="/static/plotTempHum.png" alt="Temperature and Humidity"><br>
+<img src="/static/Latest.jpg" alt="Stills" style="width:500px;height:400px;">
+<img src="/static/plotTempHum.png" alt="Temperature and Humidity" style="width:500px;height:400px;"><br>
 Experiment started on {{ datestart }} at {{ timestart }}<br>
 (Refresh screen to update)<br><br>
 <b>Current Settings: (etc)</b><br><br>
@@ -20,7 +20,7 @@ Experiment started on {{ datestart }} at {{ timestart }}<br>
  Or view old data (not available yet): 
   <a href="/view" class="button">(Nothing here)</a><br><br>
 {% endif %}
-  <br>
+  <hr>
 <b>Status</b><br>
 Temperature: {{ temp }}<br>
 Humidity: {{ hum }}<br>

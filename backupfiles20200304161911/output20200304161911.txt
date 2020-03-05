@@ -1,0 +1,82 @@
+wrote to config
+wrote to config
+wrote to config
+CronCout = 3
+trying to start camera...
+Camera Started
+Iteration 0, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+counter increased
+wrote to config
+wrote to config
+wrote to config
+wrote to config
+CronCout = 6
+trying to start camera...
+Camera Started
+Iteration 1, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+counter increased
+wrote to config
+wrote to config
+wrote to config
+wrote to config
+CronCout = 9
+trying to start camera...
+Camera Started
+Iteration 2, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+counter increased
+wrote to config
+wrote to config
+wrote to config
+wrote to config
+CronCout = 12
+trying to start camera...
+Camera Started
+Iteration 3, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+counter increased
+wrote to config
+wrote to config
+wrote to config
+wrote to config
+CronCout = 15
+trying to start camera...
+Camera Started
+Iteration 4, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+counter increased
+wrote to config
+wrote to config
+wrote to config
+wrote to config
+CronCout = 18
+trying to start camera...
+Camera Started
+Iteration 5, ISO 800
+Taking picture...
+Picture taken
+Camera Closed
+setting blue...
+counter increased
+wrote to config
+wrote to config
+wrote to config
+wrote to config
+wrote to config

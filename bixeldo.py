@@ -35,7 +35,7 @@ GPIO.setup(23, GPIO.OUT)
 #SET VARIABLES HERE
 ###################
 g = 30 # Update gif every x minutes (APPROX) (Takes up to a few mins)
-maxgifimages = 30 # definitely less than 100 to avoid slowdown
+maxgifimages = 10 # definitely less than 100 to avoid slowdown
 ###################
 #COLOURS
 ###################
@@ -189,15 +189,18 @@ def gifupdate():
     for it, file in enumerate([os.path.basename(x) for x in glob.glob("stills/*.jpg")]):
         if it%mo == 0:
             os.system('sudo cp stills/%s gifstills/%s' % (file, file))
-    os.system('sudo convert -delay 20 -loop 0 gifstills/* cam/timelapse.gif')
+    os.system('sudo convert -delay 40 -loop 0 gifstills/* static/timelapse.gif')
 
+
+#open camera elsewhere
+res = (820, 616) #native resolution /4 (true res 3280x2464)
+camera = PiCamera(resolution=res, framerate=2)
 def takeimage(tgreen):
     print('trying to start camera...')
     # CAMERA SETUP
     ###################
-    res = (820, 616) #native resolution /4 (true res 3280x2464)
     #res = (1280, 720) #720p
-    camera = PiCamera(resolution=res, framerate=2)
+#    camera.close()
     # Set ISO to the desired value
     camera.iso = 100
     # Wait for the automatic gain control to settle
@@ -222,16 +225,16 @@ def takeimage(tgreen):
     #TAKE IMAGE
     camera.iso = 800
     #log file:
-    print("Iteration " + dicts['Counter'] + ", ISO 800")
+    print("Iteration " + str(dicts['Counter']) + ", ISO 800")
     #take image
     print('Taking picture...')
     camera.capture('stills/Snap'+datepic+timenowpic+'.jpg')
     print('Picture taken')
+    camera.close()
+    print('Camera Closed')
+    os.system('sudo cp stills/Snap%s%s.jpg static/Latest.jpg' % (datepic,timenowpic))
 
 def writetolog(mins, temp, hum):
-#    gentime()
-#    gettemphum()
-#    mins = (current_milli_time()-startmilli)/60000
     with open('thlog.txt', 'a+') as log:
         log.write(str(mins) + ',' + str(temp) + ',' + str(hum) + '\n')
 
@@ -286,11 +289,10 @@ if int(dicts['CronCount']) == 0:
 #Regardless:
 ##CRONTAB UPDATE
 dicts['CronCount'] = int(dicts['CronCount']) +1
-writetoconfig()
 
 #if protocol is live
 if int(dicts['RunProtocol']) == 1:
-    print('if protocol is live flag yes')
+#    print('if protocol is live flag yes')
     gettemphum()
     if temp > float(dicts['SetTemp']):
         fanon()
@@ -300,29 +302,49 @@ if int(dicts['RunProtocol']) == 1:
 #if protocol is live and if enough minutes of blue light have run:
 if int(dicts['RunProtocol']) == 1 and int(dicts['CronCount'])%int(float(dicts['BlueTime'])) == 0:
 ####################
-    print('if protocol is live and mins blue light flag yes')
+#    print('if protocol is live and mins blue light flag yes')
+    print('CronCout = ' + str(dicts['CronCount']))
+    dicts['Counter'] = int(dicts['Counter'])+1
+    print('counter increased')
     gentime()
     gettemphum()
+    print('Time: ' + str(timenow))
     mins = int(dicts['CronCount'])
     takeimage(float(dicts['GreenTime']))
     stripeillum()
     writetolog(mins, temp, hum)
     plotgraph()
-    dicts['Counter'] = int(dicts['Counter'])+1
-    print('counter increased')
-    writetoconfig()
+#    writetoconfig()
 
 #if protocol is live and if enough minutes of have run:
-#if int(dicts['RunProtocol']) == 1 and int(dicts['CronCount'])%g == 0:
-#    gifupdate()
+if int(dicts['RunProtocol']) == 1 and int(dicts['CronCount'])%g == 0:
+    gifupdate()
 
 if int(dicts['EndProtocol']) == 1:
+    gentimepic()
     #Move data to store
     #Save to github?
     dicts['EndProtocol'] = 0
     dicts['RunProtocol'] = 0
     dicts['LockParameters'] = 0
+    dicts['CronCount'] = 0
     dicts['Counter'] = 0
 #    save anything important from output.txt
 #    open('output.txt', 'w').close()
-    writetoconfig()
+    os.system('sudo mkdir backupstills%s%s' % (datepic, timenowpic))
+    os.system('sudo mkdir backupfiles%s%s' % (datepic, timenowpic))
+    os.system('sudo mv stills/* backupstills%s%s/' % (datepic, timenowpic))
+    os.system('sudo mv static/timelapse.gif backupfiles%s%s/timelapse%s%s.gif' % (datepic, timenowpic, datepic, timenowpic))
+    os.system('sudo cp thlog.txt backupfiles%s%s/thlog%s%s.txt' % (datepic, timenowpic, datepic, timenowpic))
+    os.system('sudo cp output.txt backupfiles%s%s/output%s%s.txt' % (datepic, timenowpic, datepic, timenowpic))
+#    writetoconfig()
+    fanoff()
+    pixels.fill((0,0,0))
+    pixels.show()
+
+writetoconfig()
+#in case of error
+camera.close()
+print('Camera Closed (end)')
+gentime()
+print('End time: ' + str(timenow))

@@ -5,8 +5,8 @@ BlueTime,1.0
 GreenTime,1.0
 Duration,0.0
 SetTemp,20.0
-TimeStart,09:38:25
-DateStart,2020/03/03
-CronCount,24
-Counter,1
+TimeStart,17:04:16
+DateStart,2020/03/04
+CronCount,371
+Counter,371
 StartProtocol,0
