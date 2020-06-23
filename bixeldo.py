@@ -334,7 +334,10 @@ if int(dicts['EndProtocol']) == 1:
     os.system('sudo mkdir backupstills%s%s' % (datepic, timenowpic))
     os.system('sudo mkdir backupfiles%s%s' % (datepic, timenowpic))
     os.system('sudo mv stills/* backupstills%s%s/' % (datepic, timenowpic))
-    os.system('sudo mv static/timelapse.gif backupfiles%s%s/timelapse%s%s.gif' % (datepic, timenowpic, datepic, timenowpic))
+    try:
+        os.system('sudo mv static/timelapse.gif backupfiles%s%s/timelapse%s%s.gif' % (datepic, timenowpic, datepic, timenowpic))
+    except:
+        print('No timelapse gif to move')
     os.system('sudo cp thlog.txt backupfiles%s%s/thlog%s%s.txt' % (datepic, timenowpic, datepic, timenowpic))
     os.system('sudo cp output.txt backupfiles%s%s/output%s%s.txt' % (datepic, timenowpic, datepic, timenowpic))
 #    writetoconfig()
